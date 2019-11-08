@@ -1,0 +1,1559 @@
+HI there I am looking for a great family friendly movie for tonightm. Do you have any suggestions?	greeting
+Forgot about Zootopia.  Yeah that sounds solid.	inform_moviename
+Parks Mall AMC in Arlington	inform_theater	inform_city
+3D please	inform_video_format
+I need a date movie to get me laid	request_moviename	inform_genre	inform_other
+The Perfect Match tomorrow night at 8	inform_moviename	inform_date	inform_starttime
+"yes, opening day at 8pm, 2 tickets"	confirm_answer	inform_starttime	inform_numberofpeople
+Are there any dramas playing in downtown Atlanta Wednesday around 6PM	request_moviename	inform_genre	inform_city	inform_date	inform_starttime
+2	inform_numberofpeople
+"I am not sure. I will be staying in downtown Atlanta, so anywhere downtown will be fine"	inform_city
+10 Cloverfield Lane sounds good	inform_moviename
+Hello! I'm looking for a good movie to bring a date to.	greeting	request_moviename
+"Hamilton, NJ"	inform_city	inform_state
+Tomorrow after 4pm.	inform_date	inform_starttime
+7:45	inform_starttime
+Yup. 2 is perfect.	confirm_answer
+thanks!	thanks
+What is the last showing of Deadpool at Bellevue Lincoln Square Cinemas today?	request_ticket	inform_starttime	inform_moviename	inform_theater	inform_date
+98004	inform_zip
+Yes. Can you help me buy tickets for 2 adults?	confirm_answer	request_ticket	inform_numberofpeople
+Can I take my son to see deadpool?	inform_moviename
+okay thanks	thanks
+sure	confirm_answer
+saturday at 4pm	inform_date	inform_starttime
+2	inform_numberofpeople
+"evanston, IL"	inform_city	inform_state
+Hello	greeting
+Sure am! I need two tickets to a drama playing in Las Vegas tonight at 8PM	confirm_answer	request_ticket	inform_numberofpeople	inform_genre	inform_city	inform_date	inform_starttime
+"Eddie the Eage, whats that about?"	inform_moviename
+That sounds inspiring: I'd like tickets to see it please:	request_ticket
+Yes	confirm_answer
+"Hi, I'm looking for movies playing in Morgan city, LA this coming weekend:"	greeting	request_moviename	inform_city	inform_state	inform_date
+"I'll take just about anything other than horror above PG-13 showing in Morgan city this weekend: We're driving in, and there's like one theater: Can't be too many things playing: If I HAVE to pick one, how about Romance?"	inform_genre	inform_city	inform_date
+So I can't get anything for this coming weekend yet? Lovely: What do they have available for Deadpool for Thursday?	inform_date	request_ticket	inform_moviename	inform_date
+930 would be perfect: 4 tickets?	inform_starttime	inform_numberofpeople
+thank you so much!	thanks
+Hey there. I want to go watch Deadpool tomorrow. Can you help me find tickets?	greeting	request_ticket	inform_moviename	inform_date
+"Glendale, California. Any showtime and theater is fine with me. I'd like 2 tickets"	inform_city	inform_state	inform_starttime	inform_theater	inform_numberofpeople
+My nephew is a big fan of Deadwood and I want to surprise him with a movie night.  Is there anything showing in Arlington Texas this evening?	request_ticket	inform_moviename	inform_date	inform_city	inform_state	inform_other
+Sorry I meant Deadpool.  Autocorrect got me	inform_moviename	inform_other
+The 8PM at Eastchase would be ideal. Please go ahead and make the reservation for me	inform_starttime	inform_theater
+Yes two tickets please	confirm_answer
+Outstanding have a blessed day.	<NULL>
+"location: san francisco, ca. want to watch cloverfield ln today around 7 pm."	inform_city	inform_state	request_ticket	inform_moviename	inform_date	inform_starttime
+10:00pm please	inform_starttime
+thanks	thanks
+"Hi,  I need 4 tickets for Allegiant tonight"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date
+"Lexington KY, south side"	inform_city	inform_state
+9:55 will work!	inform_starttime
+2 please	inform_numberofpeople
+thanks!	thanks
+"Hey there. What can I take my kids to this afternoon? They're young, so something kid-safe. I'm in Minneapolis"	greeting	request_moviename	inform_city	inform_date
+"Oh, great. I've heard good things about that. The 425pm sounds good."	inform_starttime
+4 please	inform_numberofpeople
+"Hi, can I get a movie ticket?"	greeting	request_ticket
+Friday night around 8pm. I was hoping for Deadpool. Near 98119	inform_date	inform_starttime	inform_moviename	inform_zip
+2	inform_numberofpeople
+Yes please	confirm_answer
+thank you!	thanks
+i need 3 tickets to the latest showing of zootopia 3d in redmond wa	request_ticket	inform_numberofpeople	inform_starttime	inform_moviename	inform_video_format	inform_city	inform_state
+"omorrow	There is a 10:10 show a the REGAL BELLA BOTTEGA STADIUM 11  8890 NE 161st Ave, Redmond, WA 98052, would that work for you?"	inform_date
+I have purchased your tickets. thank you and enjoy the show.	confirm_answer
+I would like to purchase 2 tickets to see The Brothers Grimsby at the AMC Pacific Place 11 in Seattle on March 15th.  I prefer the 7:20 PM show if available.	request_ticket	inform_moviename	inform_date	inform_starttime	inform_numberofpeople	inform_theater	inform_city
+thanks	thanks
+Let me get 2 tickets in Altanta tomorrow at 8PM for a good horror film.	request_ticket	inform_numberofpeople	inform_city	inform_date	inform_starttime	inform_genre
+yes	confirm_answer
+are there any horror films out now?	request_moviename	inform_genre
+"boulder, colorado"	inform_city	inform_state
+wo please	Wha date and time would you like to go?	inform_numberofpeople
+The Witch is showing at AMC Westminster Promenade 24 at 7pm or United Artists Denver Pavillions at 750pm: Would you like one of those showings?	inform_date	inform_starttime
+Hello	greeting
+"Yes, I would like to see 10 Cloverfield Lane"	confirm_answer	request_ticket	inform_moviename
+"Carmike 12 in Dothan, AL."	inform_theater	inform_city	inform_state
+3\/17\/2016	inform_date
+Around 7 p.m.	inform_starttime
+what movies are showing	request_moviename
+seattle	inform_city
+onigh at 6	inform_date	inform_starttime
+hey what good movies are playing?	greeting
+what is deadpool rated?	inform_moviename
+"I am, do you know when it is playing in my area?\n"	confirm_answer
+zip code is 37128	inform_zip	thanks
+Sunday	inform_date	inform_moviename
+Today around 4PM	inform_date	inform_starttime	thanks
+ha will work	confirm_answer	thanks
+I need a ticket for Risen in San Diego Tomorrow.	request_ticket	inform_moviename	inform_city	inform_state	inform_date
+0.833333333	inform_starttime
+Yes.	confirm_answer	thanks
+thanks.	thanks
+Hello	greeting
+Is there a indian restaurant in the seattle area?	inform_other
+I'd like 2 tickets for London Has Fallen tomorrow at Regal Meridian 16 in Seattle at 9:20 PM	request_ticket	inform_moviename	inform_date	inform_theater	inform_city	inform_starttime	inform_numberofpeople
+thank you!	thanks
+I'd like 4 tickets to see The Young Messiah tomorrow night ~ 7 pm in Bloomington IN please	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+sure is	confirm_answer
+thanks!	thanks
+HI there me and my nephew would like to see Kung Fu Panda 3.  Are there any showings in the Arlington Texas area thus evening?	request_ticket	inform_moviename	inform_city	inform_state	inform_date	inform_numberofpeople	greeting
+3D sounds awesome actually. thanks for requesting it.	inform_video_format	thanks
+Go ahead and purchase those thanks a ton!	confirm_answer	thanks
+Awesome thanks and have a blessed day	thanks
+Hi can you recommend a good movie that has recently been released	request_moviename
+Okay let's go with my big fat Greek wedding 2	request_ticket	inform_moviename
+San Francisco AMC Van Ness	inform_city	inform_theater
+Tomorrow please in the evening	inform_date	inform_starttime
+10 PM please	inform_starttime
+5	inform_numberofpeople
+thank you for your excellent service goodbye	thanks
+IMAX in Boston showtimes Friday	inform_video_format	inform_city	inform_date
+Do they have them posted for Thursday	request_ticket	inform_date
+Stellar. Do you think 3D is worth the price? I don't know. Who knows really. 10:30 would be fine.	inform_starttime
+"Well, I trust a robot who trusts technology. 2 tickets please"	inform_numberofpeople
+I'd like 2 tickets to Whiskey Tango Foxtrot in Louisville KY would prefer something on the west side around 7 pm tomorrow	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_starttime	inform_date
+ha will work	confirm_answer
+thanks!	thanks
+I need 2 tickets to see Gods of Egypt in Toronto tomorrow evening around 6 pm	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+3D would be great	inform_video_format
+ha will work great!	confirm_answer
+"ok, how about downtown Manhattan, NY for Saturday night around 8"	request_ticket	inform_city	inform_state	inform_date	inform_starttime	confirm_answer
+yes please	confirm_answer
+thanks!	thanks
+"Hello, I'd like some movie tickets please."	greeting	request_ticket
+89015	inform_zip
+My Big Fat Greek Wedding 2 tonight please	inform_date	inform_moviename
+The 9:45 please	inform_starttime
+6	inform_numberofpeople
+thank you!	thanks
+deadpool showing near me	request_ticket	inform_moviename
+seattle	inform_city
+amc pacific place	inform_theater
+oday a 8:15	inform_date	inform_starttime
+1	inform_numberofpeople
+I need to purchase two tickets to see Star Wars at the Cinemark Fayette mall tomorrow in Lexington Kentucky.  I prefer after 6pm.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_date	inform_city	inform_state	inform_starttime
+maybe a different theatre in our area would be great.  thank you.	thanks
+I think the 730 would be perfect.	inform_starttime
+Can I get 2 tickets to see Risen tomorrow night in San Diego:	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+5PM	inform_starttime
+That works:	confirm_answer
+thanks:	thanks
+I need 2 tickets for London Has Fallen tomorrow at 8PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+Baltimore.	inform_city
+Yes.	confirm_answer
+thanks.	thanks
+i need 3 tickets to whiskey tango foxtrot at a 7pm showing tonight in seattle	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_city
+yes	confirm_answer
+"I need to watch a movie and slam a few cold ones down?  Are there any theatres which serve alcohol in the Arlington, Texas area?"	inform_other	inform_city	inform_state
+Deadpool if they are still showing that.  if not Batman V Superman would be fine.	inform_moviename
+Oh yes lets go with that.  How much are 2 tickets?	confirm_answer	inform_numberofpeople
+Yes please!	confirm_answer
+Sweetness.  Hope you have a blessed evening.	<NULL>
+Are there any 3D showings of Batman near me	request_ticket	inform_video_format	inform_moviename
+"Chicago, IL"	inform_city	inform_state
+I think 7pm	inform_starttime
+1	inform_numberofpeople
+thanks	thanks
+Can you show me movies starting around noon in Elgin Illinois?	request_moviename	inform_starttime	inform_city	inform_state
+How much is it to see Zootopia?	inform_moviename
+"Actually, I'd like to see 10 cloverfield lane instead. Is that the same price?"	inform_moviename
+Great. Can i purchase three tickets for that?	inform_numberofpeople
+I would like 2 tickets to see The Perfect Match at the earliest showtime available in Philadelphia on Friday.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+Yes	confirm_answer
+what's playing tonight at 8pm at regal natomas sacramento	request_moviename	inform_date	inform_starttime	inform_theater	inform_city
+2 tickets	inform_numberofpeople
+2 tickets for deadpool at 9:30 please	inform_numberofpeople	inform_moviename	inform_starttime
+thanks	thanks
+I need 2 tickets to Gods of Egypt tomorrow around 9 pm in Williamsburg VA please	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+yes it is	confirm_answer
+thanks!	thanks
+Hello there!  I am in need of some relaxation for this evening and was wondering  if there are any comedies Avila keep for viewing tonight?	greeting	request_moviename	inform_genre	inform_date
+The Movie Tavern in Arlington:  But it is late so can we look into tomorrow:	inform_theater	inform_city	inform_date
+Sure the AMC at the Parks Mall would be fine as well	confirm_answer	inform_theater
+Yes:	confirm_answer
+Whiskey Tango Foxtrot:	inform_moviename
+10:00pm	inform_starttime
+Hey. I'd like to go to the theater today and catch a movie. But I have no idea what's playing at the moment. Could you assist me to find something I'd enjoy?	greeting	request_moviename
+No. I'd like to go to the movies to watch a movie.	request_moviename
+"Glendale, California"	inform_city	inform_state
+"Today, tonight - so around 10 PM. A late airing if possible."	inform_date	inform_starttime
+Drama. I'm really feeling like drama tonight.	<NULL>
+Yes please. I'd like 1 Ticket.	confirm_answer
+thanks.	thanks
+"Is there a good comedy playing in Pensacola, FL Tuesday around 5PM"	request_moviename	inform_genre	inform_city	inform_state	inform_date	inform_starttime
+The Brothers Grimsby sounds good. Can I purchase 2 tickets around 5PM?	inform_moviename	request_ticket	inform_numberofpeople	inform_starttime
+What is the exact time of the movie?	<NULL>
+Yes please that sounds good	confirm_answer
+Can I get 4 tickets to see The Perfect Match at 7PM in Dallas tomorrow?	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_city	inform_date
+0.340277778	inform_starttime
+"thanks,"	thanks
+I need to make reservations for breakfast tomorrow morning in San Francisco	inform_date	inform_city
+I want to see batman vs superman tonight at 8pm in San francisco	request_ticket	inform_moviename	inform_date	inform_starttime	inform_city
+standard for 2 people please	inform_video_format	inform_numberofpeople
+yes I'll take it	confirm_answer
+thank you!	thanks
+I would like 1 ticket for Batman V Superman in Oklahoma City tonight	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+0.444444444	inform_starttime
+thanks!	thanks
+Hey there. I want to go watch Deadpool tomorrow. Can you help me find tickets?	greeting	request_ticket	inform_moviename	inform_date
+"Glendale, California. I'd like 2 tickets. Any show time is fine by me as is any theater."	inform_city	inform_state	request_ticket	inform_numberofpeople	inform_starttime	inform_theater
+I need 2 tickets for Deadpool in Boston tomorrow night at 8PM	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+Yes:	confirm_answer
+thanks:	thanks
+I needs tickets for carol movie for seattle	request_ticket	inform_moviename	inform_city
+"onigh, 2 tickets at around 8 pm"	inform_date	inform_numberofpeople	inform_starttime
+"yes, the new disney movie"	<NULL>
+yes	confirm_answer
+6:50 show	inform_starttime
+Get me 3 tickets for Deadpool at 9pM tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date
+amc	inform_theater
+I am in boston.	inform_city
+yes	confirm_answer
+I would like 2 tickets to see The Boss at the earliest showtime available in Philadelphia on Friday.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+A 2D showing of Zootopia.	inform_moviename	inform_video_format
+Yes.	confirm_answer
+"Nope, thanks."	thanks
+Hi.  Please book me a reservation for a mexican restaurant tomorrow at 7pm in downtown Detroit for a party of two please.	greeting	inform_date	inform_starttime	inform_city	inform_numberofpeople
+independce day was great!	confirm_answer
+"Can you find 2 tickets for Deadpool at Carmike Summit 16 in Birmingham, AL tomorrow around 2PM"	request_ticket	inform_moviename	inform_numberofpeople	inform_starttime	inform_date	inform_theater	inform_city	inform_state
+yes	confirm_answer
+I want to see the movie Boom Bust Boom.	request_ticket	inform_moviename
+Baltimore.	inform_city
+3	inform_numberofpeople
+I need 2 tickets for Risen tomorrow at 8PM in Miami.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city
+AMC	inform_theater
+6:30	inform_starttime
+thanks.	thanks
+"Hi, can I buy some movie tickets for Norfolk, Virginia please?"	greeting
+Tomorrow night. 2 tickets for Deadpool please	inform_date	inform_numberofpeople	inform_moviename
+Between 7pm and 9pm	inform_starttime
+"Yes please, book two tickets for that."	confirm_answer
+thank you! You too.	thanks
+"Hi! I would Like to pre order two tickets for The Brothers Grimsby 3/15 1:35PM at the Century 16 South Point Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_theater	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+thanks	thanks
+I want tickets for 10 Cloverfield Lane at 5PM in Dallas tomorrow.	request_ticket	inform_moviename	inform_starttime	inform_date	inform_city
+"7:50pm, please"	inform_starttime
+2	inform_numberofpeople
+"Are there any good horror movies playing in Pensacola, FL tonight at 7"	request_moviename	inform_genre	inform_city	inform_state	inform_date	inform_starttime
+2 please	inform_numberofpeople
+Hello! Hope you're having a good Sunday thus far. Could you please help me find a movie to watch today?	greeting	request_moviename	inform_date
+"I like a variety of movies. But if I had to be specific, I like animated ones, because they're so well done and have lots of clever humor older generations understand."	inform_genre
+Hmm. Those sound interesting. I remember watching the original Kung Fu Panda years ago. Does the storyline carry from the first and second film?	<NULL>
+"Yes, get me a ticket. 1 Ticket, In either Glendale or Burbank. Doesn't matter which theater it's from."	confirm_answer	inform_numberofpeople	inform_theater
+i need 1 ticket to spotlight in seattle for tomorrow	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+8pm	inform_starttime
+yes	confirm_answer
+"ok, is it all set?"	<NULL>
+Hi can you recommend a drama movie	request_moviename	inform_genre
+My ZIP Code is 94145	inform_zip
+Tonight at 10 PM for two people please	inform_date	inform_starttime	inform_numberofpeople
+thanks for your great service goodbye	thanks
+"Need a movie that will get my date thinking about, well, umm having a good time"	request_moviename
+"yes, a match can start a fire of passion burning. tomorrow night for 2 at 8"	confirm_answer	inform_date	inform_numberofpeople	inform_starttime
+"wilmington, nc"	inform_city	inform_state
+yes please	confirm_answer
+"Hello, can I get 4 Deadpool tickets for Friday night at Richland Cinemas in Johnstown, PA?"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_theater	inform_city	inform_state
+"Sure, look for theaters nearby:"	<NULL>
+I'd like you to book me 2 tickets to see The Boss this Friday night at any theater in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city	inform_theater
+9:50 will work	inform_starttime
+Are there any comedies playing wuth good reviews?	request_moviename	inform_genre
+Ah yes! is it showing in lansing tomrorro evening around 7? Ill need 2 ticjets	confirm_answer	request_ticket	inform_city	inform_date	inform_starttime	inform_numberofpeople
+yes please	confirm_answer
+i would like two movie tickets for the revenant for tonight for 6 pm in seattle	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city
+yes	confirm_answer
+I would like to purchase 2 tickets to see Spotlight at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_theater
+Could you tell me what show times are available for April 2nd please?	inform_date
+6:00 please	inform_starttime
+thanks	thanks
+4 tickets to zootopia	request_ticket	inform_numberofpeople	inform_moviename
+omorrow nigh 5pm	inform_date	inform_starttime
+help me find a theater	<NULL>
+I'd like 2 tickets to see 10 Cloverfield Lane tomorrow evening around 6 pm in Fredericksburg VA.  A Regal theater would be preferable.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+7:20 pm please	inform_starttime
+thanks!	thanks
+can you get me two tickets to any comedy playing in anderson california tomorrow at 5pm	request_ticket	inform_numberofpeople	inform_genre	inform_date	inform_starttime	inform_city	inform_state
+0.482638889	inform_starttime
+reserve them	request_ticket
+I want to see Zootopia tomorrow in Seattle:	request_ticket	inform_moviename	inform_date	inform_city
+2D	inform_video_format
+8PM	inform_starttime
+9pm	inform_starttime
+thanks:	thanks
+"I'd like to see The Brinform(other)s Grimsby at AMC in Downers Grove, IL"	request_ticket	inform_moviename
+oday a around 7	inform_date	inform_starttime
+2	inform_numberofpeople
+yes	confirm_answer
+Can you hook me up with 2 tickets in Risen?	request_ticket	inform_numberofpeople	inform_moviename
+AMC	inform_theater
+Baltimore	inform_city
+2:25pm	inform_starttime
+What movie theaters near Stony Brook NY are showing The Young Messiah as a matinee?	inform_moviename	inform_starttime	inform_city	inform_state
+saturday	inform_date
+yes please. I need 3 adult tickets and 1 child's ticket	confirm_answer	request_ticket	inform_numberofpeople
+1:45pm	inform_starttime
+thank you!	thanks
+I want to see Zootopia tomorrow night at 8:30 for 2 people.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+3d	inform_video_format
+3d	inform_video_format
+Boston.	inform_city
+AMC	inform_theater
+10:15pm	inform_starttime
+Hi are there any cartoon movies playing	greeting
+Pleasanton California	inform_city	inform_state
+Can I buy two tickets to see zootopia	request_ticket	inform_numberofpeople	inform_moviename
+5 PM please	inform_starttime
+thanks for your excellent service goodbye	thanks
+"Hi, i'm looking for two tickets to see Batman this saturday at the AMC theatre in Webster NY"	greeting
+standard	inform_video_format
+4pm	inform_starttime
+"Hi! I would Like to get two tickets to see The Young Messiah  for 3/15 1:40 PM at  Century Orleans 18 Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+thank you	thanks
+I want to see Deadpool with 3 people tomorrow at 8PM in Los Angeles.	request_ticket	inform_moviename	inform_numberofpeople	inform_date	inform_starttime	inform_city
+Yes.	confirm_answer
+thanks!	thanks
+Hello	greeting
+"I am! I want to see an action movie at Red Rock Station in Las Vegas tonight around 8PM, what do you have available?"	request_ticket	inform_genre	inform_theater	inform_city	inform_date	inform_starttime
+Deadpol at 7:40 please	inform_moviename	inform_starttime
+2	inform_numberofpeople
+"Hi! I would Like to get two tickets to see Deadpool for 3/15 3 PM at Brenden Theatres Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+thank you	thanks
+Iwould like to locate a theater in the Philadelphia area that is playing Zootopia around 2 pm	inform_city	inform_moviename	inform_starttime
+Let's go with the 6:20 for 6 people	inform_starttime	inform_numberofpeople
+Perfect have a great day	<NULL>
+what movie do you recommend?	request_moviename
+seattle washington	inform_city	inform_state
+for tomorrow night	inform_date
+3	inform_numberofpeople
+anytime after 7 pm	inform_starttime
+comedy	inform_genre
+zootopia	inform_moviename
+9:00 PM	inform_starttime
+find me a theater in deerfield IL	inform_city	inform_state
+what movies are playing?	request_moviename
+can I get tickets to zootopia	request_ticket	inform_moviename
+2d	inform_video_format
+"Hi, I'm looking for tickets to 10 Cloverfield Lane in Stafford VA. I have a giftcard for Regal theaters so would prefer them if available."	greeting
+"omorrow nigh, 7-9pm.  You are correct about the ticketing but i can use it for concessions"	inform_date	inform_starttime
+3 please	inform_numberofpeople
+thanks!	thanks
+I would like to purchase 2 tickets to see Zoolander 2 at the Regal Meridian 16 in Seattle on March 15th.  I prefer the 9:30 PM show if available.	request_ticket	inform_moviename	inform_numberofpeople	inform_theater	inform_city	inform_date	inform_starttime
+"I'd like to see London Has Fallen at the Zeus Theater in Waynesboro, Virginia tonight, March 9, at 10pm."	request_ticket	inform_moviename	inform_theater	inform_city	inform_state	inform_date	inform_starttime
+"d like one ticket to see London Has Fallen at the Macarthur Center in Norfolk, VA on March 10, 2016 at 2pm.\n"	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city	inform_state	inform_date	inform_starttime
+i need 6 tickets for zootopia 3d at 8pm in seattle area	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_starttime	inform_city
+"oday	I have a 7:35 show a the BELLEVUE LINCOLN SQUARE CINEMAS  700 Bellevue Way NE, Bellevue, WA 98004, would that work for you?"	inform_date
+I have purchased your tickets. thank you and enjoy the show.	confirm_answer
+hello	greeting
+"I need 3 tickets to a show around 3 pm, but I'm not sure what yet"	request_ticket	inform_numberofpeople	inform_starttime	inform_other
+Action	inform_genre
+his friday	Wha city and state are you located in?	inform_date
+Deadpool with Ryan Reynolds is currently playing. It's also highly rated. Would that interest you?	inform_city	inform_state
+"I'm sorry, I'm only able to bopok through 3/16. Would you like to book another date?"	request_ticket	inform_numberofpeople	inform_starttime
+Sure. It's playing at 7pm and 945pm. Which do you prefer?	inform_date
+Hello there	greeting
+Yes	confirm_answer
+Can you recommend movies?	request_moviename
+"Los Angeles, tomorrow with 2 people"	inform_city	inform_date	inform_numberofpeople
+Whiskey Tango Foxtrot	inform_moviename
+0.309027778	inform_starttime
+thanks.	thanks
+Hello	greeting
+Yes. I want to purchase tickets for Zootopia.	request_ticket	inform_moviename
+At AMC River East 21	inform_theater
+This Saturday	inform_date
+How about tomorrow night then?	inform_date
+2D tickets please	inform_video_format
+Does The Pearl theater in Philly have arcade games? My kids want to see Zootopia and I promised them arcade games first.	inform_theater	inform_other	inform_moviename	inform_city
+"Great! Then can I have 4 tickets to zootopia? In 3D preferably, but standard will do as well."	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format
+The 12:40pm showing please	inform_starttime
+Oops. 9:10pm then.	inform_starttime
+Ok. Go ahead	confirm_answer
+"I need 5 tickets to a 3D showing of Zootopia for an early show this Wednesday in Barrington, IL:"	request_ticket	inform_numberofpeople	inform_video_format	inform_moviename	inform_date	inform_city	inform_state
+12pm is best	inform_starttime
+thanks	thanks
+Hi some friends and I want to get together and see Deadpool tonight.	greeting
+"what movies are showing tomorrow night at cinema 9 in townsville, nj need 3 tickets\n"	request_moviename	inform_date	inform_theater	inform_city	inform_state	inform_numberofpeople
+I want to find out the rating for 10 Cloverfield lane and where is is showing in New York	inform_moviename	inform_city
+can you tell me the ticket prices for the 3:55 and the 7:35 showing?	inform_starttime
+Yes I would like to purchase 3 tickets for the 7:35 showing	confirm_answer	inform_numberofpeople	inform_starttime
+great thank you!	thanks
+What films are showing today at UA Arden around 3-4pm?	request_moviename	inform_date	inform_theater	inform_starttime
+10 cloverfield lane please	inform_moviename
+5:00 please	inform_starttime
+2 tickets to spotlight at the latest showing wednesday night in las vegas nv	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city	inform_state
+yes	confirm_answer
+Hi can I have 4 tickets to a movie that has animals in it in zip 98101 please?	greeting	request_ticket	inform_numberofpeople	inform_genre	inform_zip
+Awesome. 3D please. I'd like to go tonight around 8pm if possible	inform_video_format	inform_date	inform_starttime
+Ok.. hmmm. 6:05 please	inform_starttime
+thanks so much!	thanks
+"Hi can you book a movie for me tomorrow night in oxnard, ca"	request_ticket	inform_date	inform_city	inform_state
+action	inform_genre
+yes	confirm_answer
+2	inform_numberofpeople
+Where can I see Zootopia 3d in dallas tonight?	inform_moviename	inform_video_format	inform_city	inform_date
+let's do 1005pm. I need 3 tickets	inform_starttime	inform_numberofpeople
+do it now	confirm_answer
+"Can I get 3 tickets to The Witch in Columbus, GA tomorrow around 1PM"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+What about London Has Fallen	inform_moviename
+I would like to purchase 2 tickets to see The Other Side of the Door at the AMC Pacific Place 11 in Seattle on March 15th.  I prefer the 10:30 PM show if available.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city	inform_date	inform_starttime
+pro_2016-03-07T22-42-02_71f8ac7d-2b68-4ae4-a560-a7251e26e386	inform_other
+hello	greeting
+yes	confirm_answer
+huntsville al	inform_city	inform_state
+omorrow a 9 pm	inform_date	inform_starttime
+any sugguestions?	request_moviename
+"What movies are playing at the Bogar Theatre in Marshall, MI?"	request_moviename	inform_theater	inform_city	inform_state
+13-Mar	inform_date
+Can I purchase two tickets for Zootopia?	request_ticket	inform_numberofpeople	inform_moviename
+That would be fine.	confirm_answer
+"Hey there. I'm in Glendale, California. I'd like 1 ticket to Deadpool for tomorrow. Any time and theater is fine."	greeting	inform_city	inform_state	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater
+thanks!	thanks
+i need 3 tickets to zootopia non-3d in downtown seattle for tomorrow night around 8 pm	request_ticket	inform_moviename	inform_video_format	inform_city	inform_date	inform_starttime
+yes	confirm_answer
+6:50	inform_starttime
+Can I get 2 tickets for Deadpool at 6PM tomorrow in Phoenix?	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_city
+That works.	confirm_answer
+I need 10 tickets to Batman vs Superman for tomorrow.	request_ticket	inform_date	inform_moviename	inform_numberofpeople
+Boston	inform_city
+standard please	inform_video_format
+Hello	greeting
+Yes please. I'd like two tickets to Zootopia the drive in in Las Vegas tonight around 10 pm.	confirm_answer	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+Sure	confirm_answer
+Perfect	confirm_answer
+i need tickets to whiskey tango for tonight in seattle wa	request_ticket	inform_moviename	inform_date	inform_city	inform_state
+3 tickets	inform_numberofpeople
+I would like 2 tickets to see the movie Zootopia?	request_ticket	inform_numberofpeople	inform_moviename
+92111 area	inform_zip
+"Are there any comedies playing at the Carmike 16 Birmingham, AL Wednesday around 2 PM"	request_moviename	inform_genre	inform_theater	inform_city	inform_state	inform_date	inform_starttime
+2 tickets for 1:30	inform_numberofpeople	inform_starttime
+Hello?	greeting
+There will be 3 other boys coming also.	inform_other
+42261	inform_zip
+Hi what is showing near where I live?	greeting	request_moviename
+Kansas City	inform_city
+Zootopia please tomorrow.	inform_moviename	inform_date
+4:40pm 2 tickets please	inform_starttime	inform_numberofpeople
+thank you.	thanks
+Hi can you tell me the price for tickets?	<NULL>
+"Metreon, 135 fourth St., #3000, San Francisco, CA 94103"	inform_theater	inform_city	inform_state	inform_zip
+Do senior citizens get a discount?	<NULL>
+what movie do you recommend	request_moviename
+evanston illinois	inform_city	inform_state	thanks
+drama	inform_genre
+get me tickets to race	inform_moviename
+"oday	Le me find some movie times for you, how many tickets do you need?"	inform_date
+Race is showing at 7:10 and 10:15 at Century 12 Evanston. Which time would you prefer?	inform_numberofpeople
+I have successfully purchased your tickets for the 7:10 showing. Enjoy!	inform_starttime
+thank you for booking with us! Your tickets have been reserved as requested. Please enjoy the show!	thanks
+Is the witch playing in 3D anywhere near seattle tomorrow?	inform_video_format	inform_date
+omorrow around 4pm for 4 people	Which heater do you want to go to?	inform_starttime	inform_date	inform_numberofpeople
+Please hold on while I look that up for you.	inform_video_format
+Which theater do you want to go to?	thanks
+How many tickets?	inform_theater
+"Purchase confirmed for 2 tickets to The Witch playing at the Regal Meridian 16, show time is 4:50pm.  Enjoy the movie!"	inform_numberofpeople	inform_city	inform_date	inform_starttime	inform_theater
+I would like to purchase 2 tickets to see 10 Cloverfield Lane at the AMC River East 21 in Chicago please.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_theater
+Can you tell me what show times are available on April 1st please?	inform_date
+How much is the cost for the 7:45pm show?	inform_starttime
+Yes please.	confirm_answer
+thanks!	thanks
+Can I get 3 tickets for Deadpool at 6PM in Philadelphia tomorrow?	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_city	inform_date
+5:15 PM	inform_starttime
+Can you book me 1 ticket to the showing ofMiracles From Heaven at 7:40 PM this Friday at AMC 16 in Burbank?	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_theater	inform_city
+I need two tickets to the movies for a date:	request_ticket	inform_numberofpeople
+Portland:	inform_city
+hi	greeting
+"Yes, I am located outside of Seattle and would like to find a film I can take the whole family to see:"	confirm_answer	request_moviename	inform_genre
+Is Zootopia available without the 3D? 3D hurts my eyes:	inform_video_format	inform_moviename
+Yes I think that is fine	confirm_answer
+Friday mid day if possible	inform_date
+Bellevue at 2:35 sounds good	inform_theater	inform_starttime
+hree please	I have successfully purchased your ickets: Enjoy the show!	inform_numberofpeople
+"thank you for using our service, good bye:"	thanks
+"Hey there. I'm located in Glendale, California. I'd like a movie ticket for tomorrow, Wednesday. Any movie is fine as long as it's comedy or action. I'd like something in the evening. I only need 1 ticket, and it doesn't matter which theater the ticket is for."	greeting	inform_city	inform_state	request_ticket	inform_date	inform_genre	inform_numberofpeople	inform_theater
+Yep!	confirm_answer
+Hola! I'm looking for a kid friendly action movie to attend this weekend. What's out?	greeting	request_moviename
+That might be fun. I'm in the northern california Brentwood (94513 zip)	inform_city	inform_zip
+Let's do the 4:20 showtime. Four tix!	inform_starttime
+thank you!	thanks
+"I need 1 ticket for How to be Single please: Altoona, PA area:"	request_ticket	inform_moviename	inform_numberofpeople	inform_city	inform_state
+Tonight	inform_date
+Yes please	confirm_answer
+thanks!	thanks
+"Hi, can I get movie tickets to Zootopia in Madison, WI?"	greeting	request_ticket	inform_moviename	inform_city	inform_state
+For Tuesday March 15 at 7:00 PM	inform_date	inform_starttime
+3d	inform_video_format
+4	inform_numberofpeople
+That would be great.  thanks!	confirm_answer	thanks
+"Hi! I would like to get two tickets to see 10 cloverfield lane for the 4:15 pm showing today at AMC Century City 15 in Los Angeles, CA"	greeting	request_ticket	inform_moviename	inform_numberofpeople	inform_theater	inform_date	inform_starttime	inform_city	inform_state
+thanks	thanks
+"Can I get two tickets to My Big Fat Greek Wedding tomorrow evening somewhere near Penn State University in State College, PA?"	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city	inform_state
+Sounds perfect.	confirm_answer
+Perfect! thank you!	thanks
+Is there anything good playing near me?	request_moviename
+"Woodstock, IL"	inform_city	inform_state
+I was both wondering and hoping if you could be of assistance to me today:	inform_other
+"Well, I'm embarrassed to say that I'm not quite sure what's available right now: Please forgive me: If I give you a genre or genres of what I like, maybe we can narrow down a moviename that I can purchase a ticket to?"	inform_other
+thank you:	thanks
+"Could you please provide the leads of the moviename and the synopsis, please?"	request_moviename
+"London Has Fallen: I'd like to know the main actors and actresses and the synopsis of the moviename, if that isn't much trouble:"	inform_moviename
+"Sounds really exciting: I'm assuming that this is a tie-in moviename to White House Down, also starring Butler?"	inform_other
+Please buy 2 tickets to the latest showing of The Perfect Match Friday in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_city
+yes	confirm_answer
+Is there a Imax theater in Dallas?	inform_video_format	inform_city
+Zootopia for friday night	inform_moviename	inform_date
+3D but it's gonna be 3 people now and I want the last showing of the night.	inform_video_format	inform_numberofpeople	inform_starttime
+"Yes please, that would be fantastic!"	confirm_answer
+thank you for your help!	thanks
+I would like to purchase some movie tickets please.	request_ticket
+3\/18 9pm	inform_starttime	inform_date
+i'd like the soonest showing tomorrow for deadpool at carmike 10	request_ticket	inform_moviename	inform_theater	inform_starttime
+3 tickets	inform_numberofpeople
+"Hi! I would Like to get two tickets to see The Young Messiah for 3/15 6:05PM at Century Sams Town 18 Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+thanks	thanks
+I would like 2 tickets to see The Witch at the earliest showtime available in Philadelphia on Friday.	request_ticket	inform_numberofpeople	inform_moviename	inform_date
+"Yes, that will work fine."	confirm_answer
+My zipcode is 08534. Are there any movies featuring animals playing near me?	request_moviename	inform_zip
+I'll take 4 tickets to Kung Fu Panda on Monday anytime around 3pm please	inform_moviename	inform_numberofpeople	inform_date	inform_starttime
+standard 2:45 please	inform_video_format	inform_starttime
+"hello, I'm looking for tickets to see Zootopia on Friday in Seattle."	greeting	request_ticket	inform_moviename	inform_date	inform_city
+standard	inform_video_format
+0.791666667	inform_other
+Thursday	inform_date
+1	inform_numberofpeople
+Hi there! I need something to wash the nasty taste of Batman v Superman out of my mouth.  Is Deadpool still playing in the Arlington Texas area?	greeting	request_ticket	inform_moviename	inform_city	inform_state
+Tomorrow sounds wonderful.	inform_date
+6:45 please.  It is for 2 People and how much are the tickets?	inform_starttime	inform_numberofpeople
+Yes go for it!	confirm_answer
+thank you so much have a wonderful evening!	thanks
+"Hey there, are there any theaters in Nasville that have 3d?"	y	greeing	inform_city	inform_video_format
+Yes please. I'm looking to view it on Thursday afternoon	confirm_answer	inform_date
+Yes please and 2	confirm_answer	inform_numberofpeople
+I am looking for a moviename where there's a lot of violence and gore and pain and suffering:	request_moviename	inform_genre
+Deadpool sounds wonderful: Can you help me purchase a ticket to it?	request_ticket	inform_moviename	inform_numberofpeople
+hi	greeting
+yes please	confirm_answer
+i am in seattle: and i would like to see a drama film	inform_city	inform_genre
+I have never heard of that one: I am not a big fan of action films: Is there a short summary of the film plot?	<NULL>
+How about the other one?	request_moviename
+"Yes, I think so"	confirm_answer
+"Eddie the Eagle, please"	inform_moviename
+Tomorrow night would be great	inform_date
+"No, that place and time is ok"	confirm_answer
+wo	Grea I have purchased 2 tickets for you to see Eddie the Eagle at Regal Meridian 16 for tomorrow at 8:15:	inform_numberofpeople
+"What is the cheapest theater in Birmingham, AL"	inform_city	inform_state
+Can I get two tickets to London Has Fallen Birmingham tomorrow around 2PM?	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+2:20 at the CARMIKE SUMMIT 16	inform_starttime	inform_theater
+Hi I need tickets to a movie tonight for a first date.	greeting	request_ticket	inform_date
+closest theatre to 70072	inform_zip
+"Hi,  I would like to reserve two tickets for the other side of the door for 10 pm tonight at Regal Colennade 14 in Las Vegas"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_theater	inform_city
+yes	confirm_answer
+thank you	thanks
+"I need a lovie dovie movie to get  my girl in the mood. Anything available in Grand Rapids, Mi"	request_moviename	inform_genre	inform_city	inform_state
+lets get the 4:15 2 tickets	inform_starttime	inform_numberofpeople
+thanks!	thanks
+I would like to purchase 2 tickets to see Meet The Blacks at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city
+Can you tell me what show times are available on April 1st please?	inform_date
+7:15pm sounds great.  Could you tell me the cost please?	inform_starttime
+Yes please	confirm_answer
+thanks!	thanks
+Hi can you recommend a good G rated movie	request_moviename
+Miracles from heaven please	request_ticket	inform_moviename
+My ZIP Code is 92315	inform_zip
+10:50 AM please	inform_starttime
+5	inform_numberofpeople
+thank you for your excellent service goodbye	thanks
+"I want 2 tickets to see Allegiant tomorrow evening. I'm in Frankfort KY.  But, I want to see it at an IMAX theater.  Where is the closest showing in an IMAX theater?"	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city	inform_state	inform_video_format	inform_video_format
+check if tickets are available for the 7 & 9:50 showings please	request_ticket	inform_starttime
+are any left for tomorrow and if not when is the next available	inform_date
+what times are available?	inform_other
+best movies for kids	request_moviename
+thanks	thanks
+can i get tickets to zootopia?	request_ticket	inform_moviename
+onigh at 7	inform_date	inform_starttime
+Please buy 2 tickets to the latest showing of The Perfect Match tomorrow in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+Yes	confirm_answer
+No that's it	inform_other
+6pm please	inform_starttime
+thank you.	thanks
+Can I get 1 ticket for Deadpool in Seattle tomorrow at 7PM?	request_ticket	inform_moviename	inform_city	inform_date	inform_starttime
+amc	inform_theater
+yes	confirm_answer
+thanks.	thanks
+I'd like 2 tickets to see Spotlight tomorrow at Regal Meridian 16 theater in Seattle at 9:00 PM	request_ticket	inform_moviename	inform_date	inform_theater	inform_city	inform_starttime	inform_numberofpeople
+"Looking for a scary but not gross movie for 2 in Carbondale, Illinois for this coming Saturday. Is there anything like that available?"	request_moviename	inform_numberofpeople	inform_city	inform_state	inform_date	inform_genre
+"R is fine, and something between 830-930pm"	inform_starttime
+The Witch will be great.	inform_moviename
+That'll be fine.	confirm_answer
+thank you so much!	thanks
+"Hello, I need to go see the movie Miracles from heaven. What are some available times in Charlotte NC for this Friday?"	greeting	inform_moviename	inform_city	inform_state	inform_date
+"Okay, let's do the 10:15 time for 2 people"	inform_starttime	inform_numberofpeople
+Let me get 2 tickets for 10 Cloverfield Lane in Boston tomorrow at 5PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+That works.	confirm_answer
+thanks.	thanks
+What was your favorite part of Deadpool?	inform_moviename
+Do you think it is worth watching?	<NULL>
+"What time is the cheaper movie prices tomorrow at Carmike 16 in Birmingham, AL"	inform_date	inform_theater	inform_state
+"Zootopia  at Carmike 16 in Birmingham, AL"	inform_moviename	inform_theater	inform_city	inform_state
+2 tickets tomorrow around 2 PM	inform_numberofpeople	inform_date	inform_starttime
+210pm at Premiere Cinema 14	inform_starttime	inform_theater
+I need to know what will be in theaters this weekend preferably maya cinemas in bakersfield ca	request_moviename	inform_date	inform_theater	inform_city	inform_state
+"well it looks like im going to be stuck watching Allegiant, I'll need two tickets for sunday around 7PM"	inform_moviename	inform_numberofpeople	inform_date	inform_starttime
+get me tickets for Deadpool	request_ticket	inform_moviename
+"atlanta, GA"	inform_city	inform_state
+03\/16\/2016 3pm	inform_date	inform_starttime
+0.104166667	inform_starttime
+2	inform_numberofpeople
+what is the best reviewed movie in theaters right now 93304	request_moviename	inform_zip
+"sure, it's a cartoon right? im in 93304 and ill need 3 tickets"	confirm_answer	request_ticket	inform_genre	inform_zip	inform_numberofpeople
+no that	s great 930 tonight please	inform_date	inform_starttime
+i really like big women i need to see the boss!	request_ticket	inform_moviename
+my zip is 32025	inform_zip
+18 please	inform_numberofpeople
+thanks!	thanks
+Please buy 2 tickets to a showing of The Boss Friday in King of Prussia PA.	request_ticket	inform_theater	inform_moviename	inform_date	inform_numberofpeople
+Closest to 5:00pm	inform_starttime
+4:40pm please	inform_starttime
+Yes	confirm_answer
+"Hi! I would like to get two tickets to see The Perfect Match for the 5:40 pm showing at Century 16 south point in Las Vegas, Nv."	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_theater	inform_city	inform_state
+thanks so much	thanks
+what's playing at the maya theater in bakersfield california?	request_moviename	inform_theater	inform_city	inform_state
+can I get 4 tickets to Risen at 11am please?	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime
+Hey how's it going?	greeting
+"I would like to book a ticket for the latest horror film. I currently live in Chicago, Illinois."	request_ticket	inform_genre	inform_other	inform_city	inform_state
+"Today, the 19th of March, for 11 p.m. Please"	inform_date	inform_starttime
+thank you so much! Have a good day	thanks
+Are there any IMAX theaters playing any recent movies?	<NULL>
+"I'm looking for anywhere in or near Pensacola, FL"	inform_city	inform_state
+"Sounds great, how many tickets are available for purchase?"	<NULL>
+would it be possible to get 11?	inform_numberofpeople
+"Darn, that wont work. Is that for any general IMAX limit? Or for a certain time?"	<NULL>
+"Alright, that will have to do then. Are their showings between 5 and 9 PM?"	inform_starttime
+Friday would be great if its available	inform_date
+I'm sorry I meant for next Friday	inform_date
+Is Saturday available?	inform_date
+That'll work!	confirm_answer
+thanks for your help!	thanks
+"I'm looking to catch a movie tonight, what are the show times?"	inform_date
+The city of Slidell in Louisiana	inform_city	inform_state
+he Grand Theaer	inform_theater
+I am interested in a Romantic Comedy for Friday night for me and my girlfriend.	request_moviename	inform_genre	inform_date	inform_numberofpeople
+I would like an AMC theater near zip code 85249	inform_zip
+Mesa Grand 24 is closer	inform_theater
+Maybe just a regular ole' comedy	inform_genre
+Whiskey Tango Foxtrot.. Is that the new movie with TIna Fey in it?	inform_moviename
+Yes good suggestion! Please book my tickets	confirm_answer
+7:25 will do	inform_starttime
+can you find me movie tickets for the brothers grimsby this friday around 7?	request_ticket	inform_moviename	inform_date	inform_starttime
+pro_2016-03-09T00-20-19_b3e45d0f-f95e-4ac6-b8e5-b839a878e9b6	inform_other
+"Hi, is Deadpool still showing at a Theatre in Rochester NY?"	greeting	inform_moviename	inform_city	inform_state
+Yes please	confirm_answer
+Thursday around 8	inform_date	inform_starttime
+"745, two tickets"	inform_starttime	inform_numberofpeople
+Hi.  I'm looking for the showtimes at the Alamo Drafthouse in Yonkers for Tuesday please!	greeting	inform_theater	inform_city	inform_date
+How about Hardcore Henry?  I believe that is out by then.	inform_moviename
+"I'm a stickler for the late showings.  10:15 please, for 3!"	inform_starttime	inform_numberofpeople
+I am looking to see good horror movie wednesday in miami.	request_moviename	inform_genre	inform_date	inform_city
+2:45pm	inform_starttime
+4	inform_numberofpeople
+thanks.	thanks
+I need 3 tickets for Risen tomorrow at 8PM in Miami.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city
+Cinemark.	inform_theater
+Ye	confirm_answer
+thanks.	thanks
+Hi I want to see gods of Egypt in Minneapolis near 55416	request_ticket	inform_moviename	inform_city	inform_zip	greeting
+Tonight	inform_date
+2 please	inform_numberofpeople
+Yes please.	confirm_answer
+thank you very much!	thanks
+Can I get a ticket to see 10 Cloverfield Lane tomorrow at 8PM:	request_ticket	inform_moviename	inform_date	inform_starttime
+Boston:	inform_city
+I would like to purchase 3 tickets to see Zootopia 3D at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_theater	inform_video_format
+Could you tell me what times are available on April 2nd please?	inform_date
+10:00pm please	inform_starttime
+Yes please	confirm_answer
+thanks!	thanks
+Look for a super hero movie that comes out before July 2016.	inform_moviename
+"Ok, purchase 2 tickets to the Deadpool movie for me"	inform_numberofpeople	inform_moviename
+he sudio movie grill	inform_theater
+charlotte north carolina	inform_city	inform_state
+Friday any time after 6 pm	inform_date	inform_starttime
+yes purchase the tickets	confirm_answer
+thanks	thanks
+"Hello, I need movie tickets for my team of 25 tweens.  Suggestions?"	greeting	request_ticket	inform_numberofpeople
+Hmmm...these are girls.	inform_other
+20619	inform_zip
+Miracles from heaven	inform_moviename
+onigh	inform_date
+705pm	inform_starttime
+yes	confirm_answer
+thank you!	thanks
+"4 of us want to watch an action flick tonight in wilmington, nc"	request_ticket	inform_numberofpeople	inform_genre	inform_date	inform_city	inform_state
+London Has Fallen	inform_moviename
+7 would be great	inform_starttime
+Hi	greeting
+"Yes, for tomorrow night at AMC Van Ness 14, 1000 Van Ness Ave., San Francisco 94109"	confirm_answer	inform_date	inform_theater	inform_other	inform_city	inform_zip
+Let me get 4 tickets to see 10 Cloverfield Lane in Dallas tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+0.302083333	inform_starttime
+"Hi! I would like to get two tickets to see 10 cloverfield lane in XD for the 5:30pm showing at Century 16 south point in Las Vegas, Nv."	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_starttime	inform_theater	inform_city	inform_state
+Cool thank you	thanks
+i want to see Zootopia 3D in Kingsport TN tomorrow around 6 pm. 2 tickets please	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_city	inform_state	inform_date	inform_starttime
+sure is	confirm_answer
+thanks!	thanks
+"Hi, I would like to go see London has fallen on March 16 at 7pm"	greeting	request_ticket	inform_moviename	inform_date	inform_starttime
+"I am located in Fresno, California"	inform_city	inform_state
+2 please	inform_numberofpeople
+Yes	confirm_answer
+thank you	thanks
+What's playing at the theater in Brooklyn Center Minneapolis tomorrow between 11Am and 5 Pm	request_moviename	inform_theater	inform_date	inform_starttime
+"Sure, action or horror would be best."	confirm_answer	inform_genre
+"Yes The Witch, what is that about?"	confirm_answer	inform_moviename
+Yes that sounds great. I would like to see that	confirm_answer
+I would prefer the REGAL BROOKLYN CENTER STADIUM 20 for that same move tomorrow. Do they not have a showing before 5PM?	inform_moviename	inform_date	request_ticket	inform_starttime
+1	inform_numberofpeople
+Than you very much.	thanks
+movie for tomorrow night	request_moviename	inform_date
+seattle	inform_city
+drama	inform_genre
+caesar	inform_moviename
+yes	confirm_answer
+2	inform_numberofpeople
+What time is Deadpool showing tonight at the AMC theater in the westfield mall?	inform_date	inform_theater
+book me a movie for after 7pm for whatever movie you want to give me	request_ticket	inform_moviename	inform_starttime
+2	inform_numberofpeople
+omorrow	Wha city are you located in please?	inform_date
+"Deadpool is playing tomorrow night, should we purchase tickets for that movie?"	inform_city
+"Okay I have booked you 2 tickets to see Deadpool at 7:35 tomorrow at the CENTURY 16 SANTA FE STATION 4949 N. Rancho Dr., Las Vegas, NV 89130."	confirm_answer
+"Are there any family movies playing at the Carmike 16 Birmingham, AL Wednesday around 2 PM"	request_moviename	inform_theater	inform_city	inform_state	inform_date	inform_starttime
+yes	confirm_answer
+2	inform_numberofpeople
+yes	confirm_answer
+I need to see Zootopia tomorrow at 8PM for 2 people in San Diego:	request_ticket	inform_moviename	inform_date	inform_starttime	inform_numberofpeople	inform_city
+3d	inform_video_format
+Yes:	confirm_answer
+thanks:	thanks
+I would like to purchase 2 tickets to see The Divergent Series: Allegiant at the AMC Pacific Place 11 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city
+Can you tell me what show times are available on April 1st please?	inform_other	inform_date
+How much would the 7:30pm tickets be?	inform_starttime
+Yes please	confirm_answer
+thanks	thanks
+Hi. One ride please from 111 Yale Ave N in Seattle to the Quinault River Inn	greeting	inform_other
+"Oh. Uh, yeah. 2 to deadpool in Seattle, then. Zip 98101. I'd like to go to Pacific Place theater"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_zip	inform_theater
+Sunday night around 8pm if possible	inform_date	inform_starttime
+Yes please	confirm_answer
+"Great, thanks for bearing with me :)"	thanks
+"spotlight, 2 tickets, tonight, seattle"	request_ticket	inform_moviename	inform_numberofpeople	inform_date	inform_city
+"7:30pm, around there"	inform_starttime
+ok thank	thanks
+I'd like to purchase 2 tickets to see Star Wars Wednesday in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+9pm please.	inform_starttime
+Can I see 10 Cloverfield Lane?	inform_moviename
+Boston.	inform_city
+Tomorrow.	inform_date
+AMC Loews Boston Common 19 in IMAX.	inform_theater	inform_video_format
+5	inform_numberofpeople
+11:15am	inform_starttime
+thanks.	thanks
+I am trying to see London Has Fallen with 3 people tomorrow at 6PM in Los Angeles	request_ticket	inform_moviename	inform_starttime	inform_date	inform_city	inform_numberofpeople
+3	inform_starttime
+Can I get tickets for 10 Cloverfield Lane tomorrow at 8PM?	request_ticket	inform_moviename	inform_date	inform_starttime
+Boston.	inform_city
+2	inform_numberofpeople
+AMC	inform_theater
+Yes	confirm_answer
+thanks.	thanks
+hi	greeting
+ickes for 2 to see mad max in austin pls	request_ticket	inform_numberofpeople	inform_moviename	inform_city
+it s a thursday	inform_date
+Yeah ok	confirm_answer
+ok what about for the movie \room\	inform_moviename
+7:20 pls	inform_starttime
+thanks!	thanks
+"Hi! I would Like to get two tickets to see 10 Cloverfield Lane 2:30 pm for 3/15 2:20 PM at Brenden Theatres Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_theater	inform_city	inform_state
+thanks	thanks
+Make me a list of adventure movies to choose from	request_moviename	inform_genre
+I am interested in seeing Kung Fu Panda 3 with my kids:	request_ticket	inform_moviename
+I am in Dallas:	inform_city
+2D	inform_video_format
+7PM:	inform_starttime
+Friday:	inform_date
+2	inform_numberofpeople
+Hello there: Could you please help me find a moviename pertaining to my interests?	greeting	request_moviename
+"Fantastic! Well, I really enjoy romantic-comedies, even though I'm slightly embarrassed to admit that: But I also enjoy regular old comedy or action flicks: Maybe action-comedies:"	inform_genre
+"I'm not a fan of Sacha Baron Cohen at all: He stars in The Brinform(other)s Grimsby, if I'm not mistaken, correct?"	inform_other
+"It sounds interesting: Can you provide the synopsis for Whiskey Tango Foxtrot? Also, if it isn't too much to ask for, the synopsis for The Perfect Match as well?"	inform_moviename
+"Yes: I'd like to see that: I would like 1 ticket, please:"	confirm_answer	inform_numberofpeople
+"Glendale, California"	inform_city	inform_state
+"Today, tonight:"	inform_date
+Can I get seats for Deadpool?	request_ticket	inform_moviename
+amc	inform_theater
+Baltimore.	inform_city
+930pm at AMC Loews White Marsh	inform_starttime	inform_theater
+3	inform_numberofpeople
+thanks.	thanks
+I'm interested in action films: Can you tell me what's playing tonight in Milwaukee?	request_moviename	inform_genre	inform_date	inform_city
+Gods of Egypt sounds good: What are the showtimes for Milkwaukee?	inform_moviename	inform_city
+"Yes please, 2 tickets to the 9:45 showing"	confirm_answer	inform_numberofpeople	inform_starttime
+"I need 6 tickets to Deadpool tonight around 8 in wilmington, nc."	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+7 20 at carmike	inform_starttime	inform_theater
+"Hello can you book me 2 tickets for Zootopia in Amherst, MA?"	greeting	request_ticket	inform_moviename	inform_city	inform_state	inform_numberofpeople
+4/6/16 please	inform_date
+2:05pm will work	inform_starttime
+Find me a good action movie this weekend	request_moviename	inform_genre	inform_date
+Oh that sounds terrific	inform_other
+Seattle	inform_city
+Regency or AMC please	inform_theater
+9:30 pm any day this week	inform_starttime	inform_date
+yes that would be great	confirm_answer
+Hello	greeting
+Yes please. I would like 2 tickets to a 8 PM showing of Zootopia in Las Vegas NV	inform_other	inform_numberofpeople	inform_starttime	inform_moviename	inform_city	inform_state
+Tonight	inform_date
+3D	inform_video_format
+Yes	confirm_answer
+"I need to reserve a movie for a small party of 3 at 6pm on wednesday in Fremont, California"	request_moviename	inform_other	inform_numberofpeople	inform_starttime	inform_date	inform_city	inform_state
+animated	inform_genre
+The one in Fremont...	inform_city
+600pm	inform_starttime
+"Can I have a taxi pick me up at a restaurant in Seattle tomorrow night at 5pm called Place Pigalle and bring me to 1177 stewart st, Seattle, WA 98101: There will be two passengers in my party:"	<NULL>
+are there any pg-13 rated movienames playing around 6:00pm tomorrow at zip code 70072\n	request_moviename	inform_starttime	inform_date	inform_zip
+yes that sounds great	confirm_answer
+2 tickets please	inform_numberofpeople
+Hello	greeting
+ickes to fat greek wedding on friday 20619	inform_moviename	inform_date	inform_zip
+20619	inform_zip
+1020am 4 tickets	inform_starttime	inform_numberofpeople
+thank you!	thanks
+I need an action flick for this evening.  Do you have any suggestions for me.  I am in Arlington Texas	request_moviename	inform_genre	inform_city	inform_state	inform_date
+London has Fallen sounds good.  Any times for tonight available at the AMC at the Parks Mall in Arlington?	inform_moviename
+Yes 2 Tickets for 5:10 please	inform_starttime	inform_numberofpeople	thanks
+Much appreciated have a wonderful day!	<NULL>
+"Hi, I'm looking for 2 tickets to a movie for tomorrow evening around 7.  Any recommendations for a good first date movie?"	greeting
+"sure, is Whiskey Tango Foxtrot available in that time frame in Lexington KY..preferably south side"	inform_moviename	inform_city	inform_state	inform_starttime
+yes please	confirm_answer
+thanks!	thanks
+Hi I want to see a comedy in oakland ca tonight. Can you help me?	greeting	request_moviename	inform_genre	inform_city	inform_state	inform_date
+Any would be good	inform_theater
+3 tickets please	inform_numberofpeople
+great I'll take 7:15 pm please	inform_starttime
+how much are tickets at my local theater	inform_theater
+century theater evanston illinois	inform_theater	inform_city	inform_state
+thanks	thanks
+no thank you	inform_other	thanks
+yes	confirm_answer
+I want a fancy theater for tonight.	inform_date
+10014 is my zip	inform_zip
+AMC Lowes at 34th and 14th	inform_theater
+I would like to purchase 2 tickets to see Spotlight at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city
+Can you tell me what show times are available on April 1st please?	inform_date
+Could you tell me the price of the 6:05PM tickets?	inform_starttime
+I'll take the 6:05pm tickets then please.	inform_starttime
+Hi! Can you help me find a nice romantic movie?	greeting	request_ticket	inform_genre
+Is mei Ren Yu a foreign movie? Is it in subtitles?	inform_genre	inform_moviename	inform_moviename
+I'm near St. Louis. Is there anywhere near here where it is showing?	<NULL>
+need 4 tickets to spotlight in salt lake city ut for tonight around 9pm	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+yes	confirm_answer
+It is my anniversery and need a nice romantic movie this weekend for 2	inform_genre	inform_numberofpeople	inform_date
+"providence, ri"	inform_city	inform_state
+"yes, sounds great"	confirm_answer
+ok anyday is fine	inform_other
+"okay, Whiskey Tango Foxtrot"	confirm_answer	inform_moviename
+omorrow a 9pm	inform_starttime	inform_date
+720	inform_starttime
+thanks	thanks
+I want 2 tickets to 10 Cloverfield Lane for tomorrow around 8 pm in Akron OH	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+it sure is	confirm_answer
+thanks!	thanks
+"Hi, I'm looking for 3'movie tickets anywhere in Las Vegas for the new superman/batman movie. First available preffered"	greeting
+Let's do 830 please	inform_starttime
+thank you have a wonderful day	thanks
+"i need tickets for tomorrow for zootopia 3d at 8pm, 3 tickets, in seattle"	request_ticket	inform_date	inform_moviename	inform_starttime	inform_numberofpeople	inform_city
+yes	confirm_answer
+Hi	greeting
+yes	confirm_answer
+Please book me a sci-fi movie in chicago for tomorrow afternoon for one person	request_moviename	inform_genre	inform_city	inform_date	inform_numberofpeople
+Deadpool	inform_moviename
+Yes the 11:30 one is fine. Please book it	inform_starttime	request_ticket
+"I'd like 2 tickets to see Whiskey Tango Foxtrot tomorrow evening around 7 pm in Lexington, KY.  On the south side of town."	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state	inform_other
+7:15 please	inform_starttime
+thanks!	thanks
+i would like to laugh please find me movie tickets for a funny movie tomorrow at 1pm around the zip code 70072 i will need 3 tickets	request_moviename	inform_genre	inform_date	inform_starttime	inform_zip	inform_numberofpeople
+book the boss please	confirm_answer
+hello id like to see the boss	greeting	request_ticket	inform_moviename
+my zip is 32025	inform_zip
+mw please	There is a 7pm and 10pm showing available omorrow at Carmike Coastal Cinemas 10.	inform_date
+"Hey there. I I'd like a movie ticket for tomorrow, Thursday. I would like 1 ticket to see London Has Fallen at AMC or Pacific Theaters in Burbank. Any time of showing is fine by me."	greeting	request_ticket	inform_date	inform_numberofpeople	inform_moviename	inform_theater	inform_city	inform_other
+thanks	thanks
+I need 2 tickets to an action film in Seattle Friday at 6PM.	request_ticket	inform_numberofpeople	inform_genre	inform_city	inform_date	inform_starttime
+That would be great.	confirm_answer
+I'd like 2 tickets to see Star Wars in Deptford NJ tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date
+735 please.	inform_starttime
+4 tickets to spotlight at the latest showing in seattle for wednesday night please	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_starttime	inform_date
+yes	confirm_answer
+I'd like 2 tickets to see Triple 9 tomorrow at AMC Lowes Oak Tree 6 in Seattle at 7:10 PM	request_ticket	inform_moviename	inform_date	inform_theater	inform_city	inform_starttime	inform_numberofpeople
+I am in a time pinch and am wondering if there are 4 tickets available for Deadpool tonight at the Movie Tavern in Arlington?	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_theater	inform_city
+Texas	inform_state
+Sure the AMC at the Parks Mall in Arlington Texas would work fine	inform_city	inform_state	inform_theater
+Yes  4 for the 4:25 please	inform_numberofpeople	inform_starttime	confirm_answer
+No thank you my wonderful virtual assistant who makes magic happen.	thanks
+hello	greeting
+pro_2016-03-07T22-42-11_eb7a5f23-746b-42aa-a528-6e3b358cf747	inform_other
+I would like to purchase 2 tickets to see Whiskey Tango Foxtrot at the Regal Meridian 16 in Seattle on March 15th.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city	inform_date
+7:00 PM please	inform_starttime
+"I'd like to purchase 4 tickets to see London has Fallen for tomorrow night in Dayton Oh please. Around 7 pm, I prefer a theater that  offers recliner seating if possible."	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+Rave Cinemas Huber Heights 16 please	inform_theater
+yes please	confirm_answer
+thanks!	thanks
+"Hi, could you help me find a movie please?"	greeting	request_moviename
+77379	inform_zip
+Action.	inform_genre
+I need two tickets to London Has Fallen in area code 90602	request_ticket	inform_numberofpeople	inform_moviename	inform_zip
+"Next Sunday, any showtime between noon and 4pm"	inform_date	inform_starttime
+I am in the mood for a good laugh.  Do you have any suggestions for funny movies this evening?	request_moviename	inform_genre	inform_date
+Oooooh Tina Fey is hilarious yes that sounds great.  When is it playing tonight?	inform_moviename	inform_date
+Oh yeah sorry Arlington Texas	inform_city	inform_state
+The 720 sounds solid.  Go ahead and book it :)	inform_starttime	request_ticket
+I will do so thank you very much!	thanks
+"Hi, what are the ratings for Deadpool?"	greeting
+Tomorrow night at 8:00PM	inform_date	inform_starttime
+2 tickets.	inform_numberofpeople
+What theaters in Seattle are playing Batman	inform_city	inform_moviename
+London has fallen	inform_moviename
+Friday March 11 and 4 tickets	inform_date	inform_numberofpeople
+0.298611111	inform_starttime
+thank you!	thanks
+"Can you recommend a family movie to see in Whittier, CA?"	request_moviename	inform_genre	inform_city	inform_state
+"That doesn't really answer my question, but I may need 2"	inform_numberofpeople
+I'll go with the 11:30am showing	inform_starttime
+I would like 2 tickets to see Deadpool at the earliest showtime available in Philadelphia on Friday.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_city	inform_date
+"Yes, that will work."	confirm_answer
+I want to see a scary movie this weekend! What's playing in Dallas?	request_ticket	inform_genre	inform_date	request_moviename	inform_city
+The Witch sounds great!! I'd like to go Saturday around 7pm. I need 2 tickets	inform_moviename	inform_date	inform_starttime	request_ticket	inform_numberofpeople
+Valley View	inform_theater
+"yeah, that'd be fine."	confirm_answer
+thanks!	thanks
+"can I get 4 tickets to Risen for tomorrow ~ 7 pm. in Richmond VA, west side"	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state	inform_other
+"yes,"	confirm_answer
+thanks!	thanks
+what movie should I see	request_moviename
+where can I see Deadpool?	inform_moviename
+los angeles	inform_city
+omorrow	Deadpool is playing a Regal LA LIVE Stadium 14 at the folowing times tomorrow: 11:35am 1:10pm 2:20 4:00 5:10 6:50 7:50 9:40 10:40. Would you like to purchase tickets from there or search times at another theater?	inform_date
+How many tickets would you like to purchase?	inform_starttime
+I need 2 tickets for London Has Fallen tomorrow at 9PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+boston	inform_city
+Yes.	confirm_answer
+thanks.	thanks
+Hi can you recommend a drama	greeting	request_moviename	inform_genre
+Let's go with hello my name is Doris	inform_moviename
+92143 zip code please	inform_zip
+7:40 PM please for three people	inform_starttime	inform_numberofpeople
+thank you for your excellent service goodbye	thanks
+Can I see Zootopia tomorrow?	request_ticket	inform_moviename	inform_date
+Los Angeles.	inform_city
+3D	inform_video_format
+2	inform_numberofpeople
+8PM	inform_starttime
+Yes.	confirm_answer
+thanks.	thanks
+"Hello, How long is the movie Deadpool?"	greeting	inform_moviename
+"thanks, I'd like to see it in Redmond, WA on Wednesday evening. I need 3 tickets."	thanks	inform_city	inform_state	inform_date	inform_numberofpeople
+"Ok, can you purchase for Monday at 6pm?"	inform_date	inform_starttime
+Yes please!	confirm_answer
+thank you!	thanks
+I would like to purchase 2 tickets to see Whiskey Tango Foxtrot at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city
+Could you tell me what show times are available for April 2nd please?	inform_date	inform_other
+6:10 would be perfect	inform_starttime
+thanks	thanks
+"Hi! I would like to get two tickets to see The Young Messiah for 3/15 2:55 PM at Brenden Theatres Las Vegas, NV"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+thanks	thanks
+Can I get 2 tickets to see Deadpool tomorrow at 8PM?	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+San Diego.	inform_city
+yes	confirm_answer
+"thanks,"	thanks
+I want 3 tickets for a good action movie tomorrow at 6PM in San Diego.	request_ticket	inform_numberofpeople	inform_genre	inform_date	inform_starttime	inform_city
+Yes	confirm_answer
+"I want two tickets to Zoolander 2 around Columbus, Ohio for a Sunday matinee showing:"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+Yes please	confirm_answer
+thanks!	thanks
+"Want to take me and my 3 kids to see zootopia tomorrow in wilmington, nc during matinee pricing."	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city	inform_state
+12:20pm would be wonderful.  thank you.	inform_starttime	thanks
+I would love to take my lady out for a special movie night.  Do you have any suggestions for date movies at the Movie Tavern in Arlington Texas tonight?	request_moviename	inform_genre	inform_theater	inform_city	inform_state	inform_date
+Yeah Zootopia 3D sounds wonderful.  Go ahead and book anything before 11 PM	inform_moviename	inform_starttime
+Yes please	confirm_answer	thanks
+pro_2016-03-09T22-05-09_c3e7cc7d-9a31-44a3-b22f-ecb966b0496d	inform_other
+I'd like 2 tickets to see The Witch tomorrow at Regal Meridian 16 theater in Seattle at 9:30 PM	request_ticket	inform_numberofpeople	inform_theater	inform_city	inform_starttime	inform_moviename
+thank you!	thanks
+I want to see an independent film	request_ticket	inform_genre
+evanston illinois	inform_city	inform_state
+omorrow 5pm	How many ickets?	inform_date	inform_starttime
+"There are no independent films right now, but the new MIchael Moore documentary is showing. Would that be acceptable?"	inform_numberofpeople
+What time is the first showing of Zootopia in north Houston tomorrow?	inform_other	inform_moviename	inform_city	inform_date
+Can you please get me 4 tickets for the 3D showing	inform_numberofpeople	inform_video_format
+"perfect, thank you."	thanks
+"Hello, how is the weather today? I want to see a nice good movie near me ( zipcode 10022)"	greeting	request_moviename	inform_date	inform_zip
+Any good action movies showing in the seattle area tomorrow night around 7pm?	request_moviename	inform_genre	inform_city	inform_date	inform_starttime
+2 please	inform_numberofpeople
+London Has Fallen	inform_moviename
+yes please	confirm_answer
+thanks	thanks
+Hi how's it going?	greeting
+Yes! I would like to purchase a movie ticket for the most recent comedy movie that was released please.	request_ticket	inform_genre	confirm_answer
+How To Be Single would be good!	inform_moviename
+"Can you please book me two tickets to The Witch in Philadelphia, PA for tomorrow evening between 5pm and 9pm?"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+"5:15 is perfect! Haha, that was close though. Maybe next time we'll have to go a little earlier."	inform_starttime
+thank you!	thanks
+I need 3 tickets for Deadpool tomorrow in Atlanta.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+AMC	inform_theater
+"need 4 tickets to zootopia today in wilmington, nc around 2pm"	inform_numberofpeople	inform_moviename	inform_city	inform_starttime
+"standard, 3d gives me a headache"	inform_genre
+yes please	confirm_answer
+"Can I have 2 Tickets for Zootopia for a Theater in Tuscaloosa, AL?"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state
+4/6/16 around 5:00pm	inform_date	inform_starttime
+7:10pm works	inform_starttime
+"any paul rudd films playing in wilmington, nc tonight"	request_ticket	inform_moviename	inform_city	inform_state	inform_date
+"ok, what good comedy is up now"	request_moviename	inform_genre
+yes for 3 people at 8ish	confirm_answer	inform_numberofpeople	inform_date
+ha would be awesome	confirm_answer
+"Do any movie theaters server beer in  Birmingham, AL"	inform_city	inform_state	inform_other
+pro_2016-03-10T22-57-49_6c2d7e3c-f0cc-4671-ab93-210847cb2e8f	inform_other
+Are there any comedies playing there?	request_moviename	inform_genre
+yes. Today around 5 PM	confirm_answer	inform_date	inform_starttime
+2	inform_numberofpeople
+yes	confirm_answer
+"Hello, could you suggest movies for this Friday in Charlotte, NC. I prefer Crime/Mystery/Thriller movies."	greeting	request_moviename	inform_date	inform_city	inform_state	inform_genre
+"Okay, book it for 3 people"	request_ticket	inform_numberofpeople
+I would like to purchase 2 tickets to see Whiskey Tango Foxtrot at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_theater
+Can you tell me what show times are available on April 1st please?	inform_date
+How much are the 9pm tickets?	inform_starttime
+2 adults please	inform_numberofpeople	inform_other
+thanks	thanks
+What are the matinee ticket prices	inform_starttime
+I need 5 tickets for Zootopia tomorrow at 5PM in Dallas.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city
+4:30pm	inform_starttime
+2 tickets to whiskey tango for seattle tonight at 7pm	request_ticket	inform_city	inform_moviename	inform_numberofpeople	inform_date	inform_starttime
+can you do the 9:15pm spot for me	inform_starttime
+thank you	thanks
+"Hi, I need two adult tickets and one child's ticket for a Sunday matinee of Zootopia in Kirkland, Washington. Preferably between 12pm and 4pm."	request_ticket	inform_numberofpeople	inform_date	inform_starttime	inform_moviename	inform_city	inform_state
+3D	inform_video_format
+"Yes please, two adult and one child."	confirm_answer	inform_numberofpeople
+thanks!	thanks
+"Hi, I need movie tickets for Friday night."	request_ticket	inform_date	inform_starttime	greeting
+Are there any comedies out now?	request_moviename	inform_genre
+"Dallas, TX"	inform_city	inform_state
+Yes	inform_other
+10 tickets	inform_numberofpeople
+Around 9:00PM	inform_starttime
+"Hi There, I would like to get 8 tickets to the New Batman vs Superman movie please"	greeting
+92104	inform_zip
+I was looking for Thursday 3/31 around 9pm would be great.	inform_date	inform_starttime
+845pm at AMC Mission Valley would be better	inform_starttime	inform_theater
+thank you!	thanks
+2 tickets to zootopia non-3d in LA for 8pm tonight	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_city	inform_starttime	inform_date
+9:20pm please	inform_starttime
+do it	confirm_answer
+I need 1 ticket for Deadpool in Miami tomorrow at 6PM in Cleveland.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+0.204861111	inform_starttime
+Please buy 2 tickets to a showing of Meet The Blacks Thursday in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+Book 12:50pm please	inform_starttime
+Can I get 2 tickets for Deadpool in Philly tomorrow?	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+yes	confirm_answer
+thanks.	thanks
+are there any R rated films that will air sometime around 7:00pm tomorrow close to zip code 70072	request_moviename	inform_starttime	inform_date	inform_zip
+how about deadpool	inform_moviename
+3 tickets for my posse	inform_numberofpeople
+i can make 6:05	inform_starttime
+i would like to laugh please find me movie tickets for a funny movie tomorrow at 1pm around the zip code 70072 i will need 3 tickets	request_moviename	inform_genre	inform_date	inform_starttime	inform_zip	inform_numberofpeople
+he bronze	I can book hat for you. What time frame are you interested in?	inform_moviename
+"Purchase is confirmed for 3 tickets to the 12:40pm showing of The Bronze, total $26.07.  Enjoy the show!"	inform_starttime	inform_date
+"Hi, I'd like to know where Kung Fu Panda 3 is playing near me."	greeting	inform_moviename
+"Monroe, WA 98272"	inform_city	inform_zip	inform_state
+Great! Is there a show around 8pm tonight at the Regal Marysville 14?	request_ticket	inform_date	inform_starttime	inform_theater
+2 adult tickets please	inform_numberofpeople
+Ryan Reynolds is my favorite actor.  Are there any movies out starring him at this time?	inform_other	request_moviename
+Yes tonight if possible	inform_date	confirm_answer
+Arlington Texas	inform_city	inform_state
+Yes please do thanks a ton!	confirm_answer	greeting
+2 tickets please.  Feel free to go ahead and book it if there is a showing same time tonight.	inform_numberofpeople	request_ticket	inform_date	inform_starttime
+thanks so much have an amazing day!	thanks
+i need 2 tickets to zootopia in billings montana please	request_ticket	inform_moviename	inform_city	inform_numberofpeople
+0.395833333	inform_starttime
+yes	confirm_answer
+Hi there! Can I get 3 tickets to see Gods Not Dead 2 somewhere in Chicago?	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_city
+"7pm, please. Is that for tonight?"	inform_starttime	inform_date
+thanks	thanks
+I would like to know if THE BROTHERS GRIMSBY is playing at Regal Cinemas Crossroads 20:	request_ticket	inform_moviename	inform_theater
+"cary, nc"	inform_city	inform_state
+Saturday March 12	inform_date
+2	inform_numberofpeople
+0.336805556	inform_starttime
+thanks	thanks
+I am looking for a mystery film.	request_moviename	inform_genre
+Los Angeles.	inform_city
+Friday. 2 tickets.	inform_date	inform_numberofpeople
+10 Cloverfield Lane please.	inform_moviename
+I want to see Deadpool tomorrow in Baltimore:	request_ticket	inform_moviename	inform_city	inform_date
+2	inform_numberofpeople
+6:45pm:	inform_starttime
+thanks:	thanks
+need 3 tickets to spotlight in vegas area for thurs night	request_ticket	inform_numberofpeople	inform_moviename	inform_date
+ha is ok	confirm_answer
+I'd like to see One More Time at the soonest showing in Atlanta	request_ticket	inform_moviename	inform_theater	inform_city
+no	<NULL>
+I need 5 tickets for 10 Cloverfield Lane for tomorrow in Los Angeles.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_city
+7:30pm.	inform_starttime
+Can I still get tickets to Zootopia tonight? There are 8 of us. We're in Omaha.	request_ticket	inform_moviename	inform_date	inform_numberofpeople	inform_city
+he 745.	I have purchased your ickets. thank you and enjoy the show!	inform_starttime
+Can I get 2 tickets for The Perfect Match at Rave Motion Pictures - Vestavia Hills at 2pm Thursday	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_starttime	inform_date
+"Two tickets for Zootopia today around 2PM at Carmike 16 in Birmingham, AL"	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_theater	inform_city	inform_state
+yes	confirm_answer
+"what space movies are playing in wilmington, nc tomorrow?"	request_moviename	inform_city	inform_state	inform_date
+yes for 4 around 7ish	confirm_answer	inform_numberofpeople	inform_starttime
+yes it is.  thanks for asking	confirm_answer	thanks
+hello	greeting	request_ticket
+yes at nine	request_city	request_state
+huntsville al	request_date
+omorrow	Do you have a movie or genre in mind?	somehing besides the witch but I don't know whats playing	request_genre	request_moviename
+Whiskey tango Foxtrot.	inform_moviename	multiple_choice_moviename
+0.416666667	inform_starttime	inform_theater	inform_other	inform_city	inform_state	inform_zip	multiple_choice_starttime
+2	request_numberofpeople
+"thanks.,"	inform_taskcomplete	thanks
+greeting	inform_closing
+I need 5 tickets for Deadpool tomorrow in Dallas at 8PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_state	inform_starttime
+It is.	confirm_answer
+"ickes for zootopia in 2D around 5pm tomorrow, theater closer to 60062, need two tickets please"	request_ticket	inform_moviename	inform_video_format	inform_starttime	inform_zip	inform_numberofpeople
+3:45 please	inform_starttime
+"Hello, I would like to purchase two tickets for Deadpool for tomorrow night."	greeting	request_ticket	inform_moviename	inform_numberofpeople	inform_date
+"Georgetown, Delaware"	inform_city	inform_state
+7:55	inform_starttime
+thank you!	thanks
+I want to see Zootopia tomorrow at 8PM for 2 people in Seattle.	request_ticket	inform_moviename	inform_date	inform_starttime	inform_numberofpeople	inform_city
+Miami.	inform_city
+Baltimore	inform_city
+Seattle	inform_city
+I am still interested.	confirm_answer
+Yes.	confirm_answer
+thanks.	thanks
+"Hi, I want to purchase pre-sale tickets for the Captain America movie that's coming out in a couple months"	greeting
+"Walnut Creek, CA and I'm looking for a matinee"	inform_city	inform_state
+standard format	inform_video_format
+Sounds good. I need 3 tickets. Name is J Jones.	confirm_answer	inform_numberofpeople	inform_other
+thanks!	thanks
+Are there any tear jerkers showing at the regal on the boarkwalk in Bossier city?	request_moviename	inform_theater	inform_city
+onigh at 8:30pm	inform_date	inform_starttime
+Louisiana	inform_state
+I'll take 5 tickets	request_ticket	inform_numberofpeople
+thanks. goodbye	thanks
+I'm looking for 2 tickets to The Other Side of the Door for tomorrow evening about 7 in Knoxville TN	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+anywhere on the east side	<NULL>
+"Hello can you book me 2 tickets for Zootopia in Knoxville, TN?"	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state
+2d at 1240 will work is that for Today?	inform_video_format	inform_starttime
+That will work!	confirm_answer
+What new movies are coming out this Friday?	" Amenities Batman v Superman: Dawn of Justice 3D showtimes and tickets VIP GIFT INCLUDED Batman v Superman: Dawn of Justice 3D PG-13 , 2 hr 31 min Action/Adventure, Sci-Fi/Fantasy Select a movie time to buy Digital 3D tickets RealD 3D u2022 Closed caption u2022 Accessibility devices available u2022 4DX u2022 Reserved seating u2022 No passes 10:00am 1:30pm 5:10pm 8:40pm 12:10am RealD 3D u2022 Closed caption u2022 Accessibility devices available u2022 Premiere Cinema u2022 Reserved seating u2022 No passes 12:10pm 3:50pm 7:40pm 11:30pm"
+Does Batman v. Superman have any 3D showings?	inform_date	inform_moviename
+"Los Angeles, CA"	confirm_answer	request_city	request_state
+"I'd like a theater in Hamilton, NJ that serves dinner please"	inform_city	inform_state
+"Yes, that would be great! 2 tickets to the AMC Dine-In tomorrow evening, around 5:30pm for 10 Cloverfield Lane if possible"	confirm_answer	request_ticket	inform_numberofpeople	inform_theater	inform_date	inform_starttime	inform_moviename
+"Yes, that's perfect"	confirm_answer
+What's the sappiest movie showing this week?	request_moviename	inform_genre	inform_date
+"Carbondale, Illinois?"	inform_city	inform_state
+"Anywhere in Carbondale, probably Thursday night?"	inform_date	inform_theater	inform_city
+8-10pm start time?	inform_starttime
+2	inform_numberofpeople
+Sap is so great though: A nice drama?	inform_genre
+I don't know: I do love Joseph Fiennes though: Yeah: Let's do it:	confirm_answer
+wednesday will be fine then:	inform_date
+Wonderful thank you!	thanks
+closest movie theater	<NULL>
+zip code 98115	inform_zip
+hornon place	inform_theater
+zootopia	inform_moviename
+standard 5:50 please	inform_video_format	inform_starttime
+2	inform_numberofpeople
+"I need to reserve a movie for a small bachelors party at 6pm on wednesday in San Jose, California"	request_moviename	inform_other	inform_starttime	inform_date	inform_city	inform_state
+8	inform_numberofpeople
+Comedy	inform_genre
+he one in san jose	Deadpool\r\n\r\nCin\u00E9Ars @ Santana Row\r\nClosed caption \u2022 Digital\r\n10:45am 1:45pm 4:45pm 7:35pm 10:25pm	inform_city
+"Purchase confirmed for 8 tickets to the 7:35 showing of Deadpool on Wednesday, March 23rd, total $92.00.  Enjoy the show!"	inform_starttime
+is star wars in theaters?	inform_moviename
+where can I see it near Seattle	<NULL>
+he regal please	Wha day would you like to go?	inform_theater
+There is a 6:15 showing at Regal Meridian 16:  Should I purchase tickets for that showing?	inform_date	inform_starttime
+"Great, how many tickets do you need?"	confirm_answer
+What time is Zootopia playing near me?	request_city
+Seattle Wa	inform_theater	inform_moviename	request_theater	request_city
+"ry zip code 98101	Here are 3 heaters near you that are showing Zootopia: Regal Meridian 16, Pacific Science Center, Admiral Theater. Would you like to see showtimes for one of those theaters?"	inform_moviename	inform_theater
+What day would you like to go?	request_date
+2 please	request_numberofpeople
+"a matinee, the earliest show possible"	inform_starttime
+standard	inform_video_format
+yes please	inform_result	inform_theater	inform_theater
+"yes, and thank you"	inform_starttime	inform_video_format	inform_starttime
+inform_moviename	thanks	inform_taskcomplete
+I need 2 tickets to see Spotlight tomorrow around 6:30 pm in Dayton OH please	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+whichever one has a showing close to 6:30 pm	inform_starttime
+yes please	confirm_answer
+thanks!	thanks
+Does Regal Meridian 16 in Seattle have special wheelchair seating?	inform_theater	inform_city	inform_other
+"Yes, There's 3 of us total. One is in a wheelchair. We'd like to see a comedy there around 7pm tonight. Any suggestions?"	confirm_answer	inform_numberofpeople	inform_other	request_moviename	inform_genre	inform_starttime	inform_date
+"Let's go with Hello, My Name is Doris!"	inform_moviename
+thank you!	thanks
+I want to see Eye in the Sky tomorrow at 8PM for 2 people.	request_ticket	inform_moviename	inform_starttime	inform_date	inform_numberofpeople
+Baltimore	inform_city
+AMC	inform_theater
+Yes.	confirm_answer
+Action.	inform_genre
+London Has Fallen	inform_moviename
+Yes.	confirm_answer
+thanks.	thanks
+hi	greeting
+"Yes, I need to see about getting a ticket to Zootopia"	confirm_answer	request_ticket	inform_numberofpeople	inform_moviename
+Huntsville al	inform_city	inform_state
+his Wednesday a 10 am	inform_date	inform_starttime
+3d	inform_video_format
+4	inform_numberofpeople
+yes	confirm_answer
+What is the latest action movie released this year?	request_moviename	inform_starttime	inform_genre	inform_date
+Hello	greeting
+Yes please. I would like 2 tickets to see something scary in Las Vegas	confirm_answer	request_ticket	inform_numberofpeople	inform_city
+Tonight around midnight	inform_date
+That sounds great. What theaters are showing it around that time?	confirm_answer	inform_starttime
+That sounds perfect	confirm_answer
+4	inform_numberofpeople
+I need 2 tickets for Deadpool at 9PM tonight.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date
+I am located in San Diego.	inform_city
+9:55	inform_starttime
+Hello can you find a theater that is playing Deadpool in 3D in Sacramento:	greeting	inform_moviename	inform_video_format	inform_city
+Tomorrow around 12pm	inform_date	inform_starttime
+2 please	inform_numberofpeople
+Yes please	confirm_answer
+thank you!	thanks
+I need 1 ticket for Deadpool at 7PM tonight in Pittsburgh.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_city
+yes	confirm_answer
+I need 6 tickets to see deadpool if its still playing near 93304	request_ticket	inform_numberofpeople	inform_moviename	inform_zip
+omorrow please around 9pm if hats available	inform_date	inform_starttime
+10pm is great and i'll need 5 tickets not 6 if that's ok	inform_starttime	inform_numberofpeople
+i would like tickets to whiskey tango foxtrot for portland oregon	request_ticket	inform_moviename	inform_city	inform_state
+Regal Fox Tower Stadium 10 please	inform_theater
+sunday please after 5 pm	inform_date	inform_starttime
+2 adults please	inform_numberofpeople
+thank you have a super day	thanks
+"Hello, I'd like some movie tickets please."	greeting	request_ticket
+89123 please	inform_zip
+Zootopia tonight please.	inform_moviename	inform_date
+11:05	inform_starttime
+2	inform_numberofpeople
+thank you	thanks
+Can I get 2 tickets to see Zootopia in 3d tomorrow at 4PM in Miami?	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_date	inform_starttime	inform_city
+Yes	confirm_answer
+thanks.	thanks
+I am looking for an exciting movie.	request_moviename
+God's of Egypt sounds great.	inform_moviename
+San Francisco.	inform_city
+Friday. Around 9 PM with 4 tickets.	inform_date	inform_starttime	inform_numberofpeople
+"Can I get 2 tickets to Whiskey Tango Foxtrot in Birmingham, AL tomorrow around 2 PM"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+yes	confirm_answer
+Hi! I'm looking for a good place to eat in Seattle.	greeting	inform_other	inform_city
+"Yes, yes! I'm sorry! I wanted to know the best movie out right now."	inform_other	request_moviename
+I want to take the kids to it this weekend.	request_ticket	inform_date	inform_other
+Let's try downtown Seattle.	inform_city
+Perfect! That's what I wanted to hear. thanks much!	thanks
+Can you get me two tickets to Deadpool in Fort Worth TX please? Preferably for Friday between 8 and 11pm.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+That sounds great. Can you book the 10:50 for me?	request_ticket	inform_starttime
+Great! thank you!	thanks
+I'd like 2 tickets to see The Boss in Cherry Hill NJ Saturday.	request_ticket	inform_city	inform_state	inform_date	inform_numberofpeople
+1:15pm will work.	inform_starttime
+Hello I like to purchase two movie ticket for March 25 2016	greeting	request_ticket	inform_numberofpeople	inform_date
+"Pensacola, FL"	inform_city	inform_state
+That sounds good. Can I purchase 2 tickets today around 5PM	confirm_answer	request_ticket	inform_numberofpeople	inform_date	inform_starttime
+2d	inform_video_format
+5:40	inform_starttime
+i need 2 tickets to spotlight in seattle wa	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state
+omorrow a 7pm	inform_date	inform_starttime
+8:45pm please	inform_starttime
+is it all done?	<NULL>
+i would like to purchase 2 tickets to 10 Cloverfield Lane in Edwards Rancho San Diego 15	request_ticket	inform_numberofpeople	inform_moviename	inform_theater
+onigh after 6	inform_date	inform_starttime
+7:30 please	inform_starttime
+"Hi, my gf is wanting to see Allegiant. Can you tell me what it's rated?"	greeting
+"yes please, I'm in 22408"	inform_zip
+"Are there any horror movies playing in Birmingham, AL tomorrow around 2 PM"	request_moviename	inform_genre	inform_city	inform_state	inform_date	inform_starttime
+"yes, can I get 2 tickets"	confirm_answer	request_ticket	inform_numberofpeople
+yes	confirm_answer
+"Hi, I need tickets for two people at 10 pm for the movie Gods of Egypt at the South Point Casino"	request_ticket	inform_numberofpeople	inform_starttime	inform_moviename	inform_theater
+3\/10	inform_date	inform_video_format
+3d	confirm_answer
+las vegas	inform_city
+I'm looking for 2 tickets to clovefield in sacramento today	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+4:10pm please	inform_starttime
+yes please	confirm_answer
+Hello	greeting
+I'd like to purchase movie tickets for friday	request_ticket	inform_date
+Can I get a ticket to see The Young Messiah tomorrow?	request_ticket	inform_moviename	inform_date
+I am located in Dallas.	inform_city
+8PM	inform_starttime
+Highland Park Village Theater at 7:30pm.	inform_theater	inform_starttime
+2	inform_numberofpeople
+thanks.	thanks
+Can you find the showtimes for Risen at Regency Commerce 14 for tomorrow?	inform_moviename	inform_theater	inform_date
+Ill go with 2:30	inform_starttime
+Just two	inform_numberofpeople
+hi	greeting
+hello I need to buy some tickets to allegiant in huntsville al	greeting	request_ticket	inform_moviename	inform_city	inform_state
+Hey I need a couple tickets to a comedy tonight.	greeting	request_ticket	inform_genre	inform_date	inform_numberofpeople
+Brendan Palms in Las Vegas NV	inform_theater	inform_city	inform_state
+510 please	inform_starttime
+"Hey, what's up?"	greeting
+Yes please. Can you tell me if there are any 10pm showings of Deadpool either tonight or tomorrow in Seattle?	confirm_answer	request_ticket	inform_moviename	inform_starttime	inform_date	inform_city
+Yes please! Nine tickets please.	confirm_answer	inform_numberofpeople
+Can you purchase 2 tickets for me to the theater in the mall?	inform_numberofpeople
+I would like to purchase 2 tickets to see Batman V Superman: Dawn of Justice 3D at the Regal Meridian 16 in Seattle please.	request_ticket	inform_numberofpeople	inform_moviename	inform_video_format	inform_theater	inform_city
+Can you tell me what show times are available on April 1st please?	inform_date
+How much would the 6:40pm show be for 2 adults?	inform_starttime	inform_numberofpeople
+Yes please	confirm_answer
+thanks	thanks
+Are there any movies out in theaters right now that are over 2 hours long?	request_moviename
+"Tomorrow ain the eveing, around 6pm"	inform_date	inform_starttime
+"hamilton, nj please. i think there's an amc 24 around here or something like that"	inform_city	inform_state	inform_theater
+Yes. The first one. Around 6pm please	confirm_answer	inform_other	inform_starttime
+I am trying to see London Has Fallen.	request_ticket	inform_moviename
+Philadelphia.	inform_city
+Friday.	inform_date
+3PM	inform_starttime
+2	inform_numberofpeople
+Would you get me 3 tickets to Deadpool on long Island for Friday evening?	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+That sounds excellent	confirm_answer
+Can you list Italian restaurants in Seattle?	inform_city	inform_other
+I'd like to purchase 1 ticket to see Meet The Blacks at 4:30pm Tuesday at THE PEARL THEATRE AT AVENUE NORTH in Philadelphia.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_date	inform_theater	inform_city
+thanks!	thanks
+"I need four tickets to Whiskey Tango Foxtrot near Norfolk, Virginia for Monday evening between 7pm and 10pm: Can you tell me what's available?"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state	inform_date	inform_starttime
+"Yes please: Book the 7:50 at Cinemark 18,"	request_ticket	inform_starttime	inform_theater
+thanks!	thanks
+"Is there any comedies playing at the Cinemark Theater in Anderson, CA tomorrow night around 5pm I will need 3 tickets."	request_moviename	inform_genre	inform_theater	inform_city	inform_state	inform_date	inform_starttime	inform_numberofpeople
+4:34 big fat greek wedding 2 please	inform_starttime	inform_moviename
+"Hi there!  Is the new Star Wars movie still showing in any theaters in the Houston, Texas area?  I have an impulse to watch it but know it has been out for some time and may be hard to catch."	greeting	request_ticket	inform_moviename	inform_city	inform_state
+Oh wow that is convenient.  The 7 PM sounds great.  How much are the tickets?	inform_starttime
+2 please.	inform_numberofpeople
+thanks a bunch have a great day/afternoon	thanks
+"Is Zootopia playing in 3d tomorrow in Birmingham, AL"	request_ticket	inform_moviename	inform_video_format	inform_date	inform_city	inform_state
+yes 2 tickets	confirm_answer	inform_numberofpeople
+0.045138889	inform_starttime
+I am trying to see The Perfect Match.	request_ticket	inform_moviename
+I am in Orlando.	inform_city
+Tomorrow at 8:30.	inform_date	inform_starttime
+4	inform_numberofpeople
+0.395833333	inform_starttime
+thanks.	thanks
+Please buy 2 tickets to a showing of Eye In The Sky tomorrow in Philadelphia.	request_ticket	inform_numberofpeople	inform_numberofpeople	inform_date	inform_city
+420 works.	inform_starttime
+"What comedies are playing at Rave Motion Pictures in Birmingham, AL"	request_moviename	inform_genre	inform_theater	inform_city	inform_state
+wo ickets for Whiskey Tango Foxtrot tomorrow around 3 pm	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+345pm at Regal Trussville Stadium	inform_starttime	inform_theater
+ickes in seattle are needed for tonight at 6pm. The movie spotlight. 4 tickets total.	request_ticket	inform_city	inform_date	inform_starttime	inform_moviename	inform_numberofpeople
+yes	confirm_answer
+I'd like 2 tickets to see Deadpool tomorrow at AMC Pacific Place 11 theater in Seattle at 9:00 PM	request_ticket	inform_moviename	inform_numberofpeople	inform_starttime	inform_date	inform_theater	inform_city
+thank you!	thanks
+Movie tickets for 2 in honalulu	request_ticket	inform_numberofpeople	inform_city
+I want to see the lowest rated movie	<NULL>
+No one thought through the name on that one eh... let's go with the 9:55	inform_other	inform_starttime
+i would llike 2 tickets to star wars please	request_ticket	inform_numberofpeople	inform_moviename
+portland oregon	inform_city	inform_state
+wednesday at 7 pm please	inform_starttime	inform_date
+yes that would be great thank you so much	confirm_answer	thanks
+thank you	thanks
+children's movies	request_moviename	inform_genre
+kung fu panda	inform_moviename
+downtown seattle	inform_city
+3d 2 tickets tonight	inform_video_format	inform_numberofpeople	inform_date
+yes	confirm_answer
+I want to see deadpool today	request_ticket	inform_moviename	inform_date
+98115	inform_zip
+9:40 please	inform_starttime
+2	inform_numberofpeople
+"Showtimes for Hardcore Henry this weekend in Lowell, MA"	inform_moviename	inform_date	inform_city	inform_state
+BOOM Methuen coming through like a boss. How about Saturday afternoon?	inform_date
+That sounds fabulous. )	confirm_answer
+11	inform_numberofpeople
+I want to see Deadpool in LA tomorrow:	request_ticket	inform_moviename	inform_city	inform_date
+6PM:	inform_starttime
+showtimes dead pool	request_theater
+closest to me zip code 60630	request_date
+omorrow	Do you have an esimated time and number of tickets?	request_starttime	request_numberofpeople
+"There is a 3:45 showing at AMC SHOWPLACE GALEWOOD 14 5530 W: Homer St:, Chicago, IL 60639 or a 4:20 showing at REGAL city NORTH STADIUM 14 IMAX & RPX 2600 North Western Avenue, Chicago, IL 60647:  Would you like to book one of these?"	inform_mc_list	multiple_choice_mc_list
+inform_moviename	inform_taskcomplete	inform_numberofpeople	inform_moviename	inform_theater	inform_starttime	inform_date
+Hi I would like to buy tickets in advance for My Big Fat Greek Wedding 2	greeting	request_ticket	inform_moviename
+"I am located in Fresno, California"	inform_city	inform_state
+3:00 PM	inform_starttime
+16-Mar	inform_date
+"Yes, that is great"	confirm_answer
+Yes it is perfect	confirm_answer
+2	inform_numberofpeople
+thank you. Have a great day	thanks
+I am looking for an action moving for 2 people tomorrow night at 7PM in downtown Boston.	inform_moviename	inform_genre	inform_numberofpeople	inform_date	inform_starttime	inform_city
+Deadpool	inform_moviename
+7:45pm	inform_starttime
+thanks	thanks
+Is London Has Fallen still showing at Pacific Theaters at the Grove in Los Angeles? If so I need two tickets	inform_moviename	inform_theater	inform_city	request_ticket	inform_numberofpeople
+Please reserve two tickets for the 7:55	inform_numberofpeople	inform_starttime
+"Next agent, please actually book this and report this worker"	inform_other
+hi	greeting
+yes I need to get some tickets to deadpool	request_ticket	inform_moviename
+Decatur Al	inform_city	inform_state
+4 days from now at 12 pm	inform_starttime	inform_date
+I will need 3	inform_numberofpeople
+"Hello, I would like to find a place to see Star Wars:The Force Awakens in my area."	greeting	inform_moviename
+Wadsworth OHio	inform_city	inform_state
+Friday night	inform_date
+"8:50 PM in Canton, two tickets please"	inform_starttime	inform_city	inform_numberofpeople
+thanks	thanks
+I'd like 2 tickets to see London has Fallen in 3D near downtown Orlando tomorrow around 8 pm please	request_ticket	inform_moviename	inform_numberofpeople	inform_date	inform_city	inform_starttime
+ha would be perfect	confirm_answer
+thanks!	thanks
+I need 1 ticket for Deadpool at 6PM in Cleveland tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_city	inform_date
+1:05pm	inform_starttime
+"Hello can you book me 2 tickets for Zootopia in Miami, FL?"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state
+4:40pm will work	inform_starttime
+"Just to confirm, that is for today correct?"	<NULL>
+I need 1 ticket for Risen in Baltimore tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+7PM	inform_starttime
+Yes	confirm_answer
+thanks.	thanks
+I need 4 tickets for My Big Fat Greek Wedding 2 in Dallas tomorrow at 8PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date	inform_starttime
+Yes.	confirm_answer
+thanks.	thanks
+I would like to purchase 2 tickets to see Miracles from Heaven at the AMC River East 21 in Chicago please.	request_ticket	inform_numberofpeople	inform_moviename	inform_theater	inform_city
+Can you tell me what show times are available on March 25th please?	inform_date
+I'd like to book the 6:15pm show please.	request_ticket	inform_starttime
+thanks!	thanks
+I need two tickets to see The Perfect Match in Philadelphia tomorrow.	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_date
+3:35pm please.	inform_starttime
+I'd like to ask for 2 tickets for Miracles From Heaven tomorrow at 9PM in San Francisco.	request_ticket	inform_numberofpeople	inform_moviename	inform_starttime	inform_city	inform_date
+7:50pm	inform_starttime
+i would like tickets to 10 cloverfield lane please	request_ticket	inform_moviename
+portlnad oregon	inform_city	inform_state
+wwednesday at 7pm please	inform_date	inform_starttime
+2 please	inform_numberofpeople
+yes please	confirm_answer
+thank you	thanks
+i need 3 tickets to a comedy in seattle	omorrow around 5pm	reques_ticket	inform_numberofpeople	inform_genre	inform_city
+"Hello, what movies have you seen?"	greeting	request_moviename
+"Great, take your time, I am going to go to dinner, and will check on your answer when I return."	inform_other
+"No thanks, but I will keep these 2 movies in mind for future use.  thanks so much, have a great evening."	inform_other	thanks
+I am looking for a good double movie night:  I know I want to see Deadwood and another action movie:  Any recommendations?	request_moviename	inform_genre
+Yes Deadpool sorry:  Yeah 10 Cloverfield Lane sounds interesting so let's go with those two:	confirm_answer	inform_moviename
+AMC at the Parks Mall	inform_theater
+2 for each please	inform_numberofpeople
+Can I get two tickets to Zootopia in 3D at Carmike 16 in Birmingham tomorrow around 2PM?	request_ticket	inform_moviename	inform_video_format	inform_theater	inform_city	inform_date	inform_starttime
+2:15pm for the standard version	inform_starttime	inform_video_format
+I want to watch Kung Fu Panda 3 for 2 people in Seattle:	request_ticket	inform_moviename	inform_numberofpeople	inform_city
+2D	inform_video_format
+7PM	inform_starttime
+Tomorrow:	inform_date
+I need 5 tickets for London Has Fallen tomorrow at 7PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+Boston.	inform_city
+6:15pm	inform_starttime
+What animated movies are showing in the Houston area?	request_moviename	inform_city	inform_genre
+A zootopia showing around 11a.m. would be great	inform_moviename	inform_starttime
+oday for 3 people please	Would you prefer o see in standard or 3D format?	inform_numberofpeople	inform_date
+The earliest showing is at 12:30 at Edwards Greenway Grand Palace Stadium 24. Is that acceptable?	inform_video_format
+I have purchased your tickets. thank you and enjoy the show.	confirm_answer
+thank you for using our system!	thanks
+I need 2 tickets in Los Angeles to see Deadpool.	request_ticket	inform_numberofpeople	inform_city	inform_moviename
+Saturday at 8PM.	inform_date	inform_starttime
+Yes.	confirm_answer
+thanks.	thanks
+"Hello. I want to know which movies are playing on AMC 600 in Chicago, IL please. thanks"	greeting	request_moviename	inform_theater	inform_city	inform_state	thanks
+Sunday 3\/20	inform_date
+Miracle from Heaven	inform_moviename
+onigh Sunday at 9 please	inform_date	inform_starttime
+Alright! please go ahead	inform_other
+Awesome! thank you so much	inform_other	thanks
+"Hello can you book me 2 tickets for Zootopia in Miami, FL?"	greeting	request_ticket	inform_moviename	inform_city	inform_state
+"omorrow if possible	here is an 11:15am, 1:50, 4:25, and 6:55 showing available at Regal South Beach."	inform_date
+I have successfully purchased 2 tickets to the 1:50 show! Enjoy!	inform_starttime
+"Can I have 2 Tickets for Zootopia for a Theater in Louisville, KY?"	request_ticket	inform_numberofpeople	inform_moviename	inform_city	inform_state
+4/6/16 around 6:00pm	inform_date	inform_starttime
+6:50pm works	inform_starttime
+Hello. Can you please bury me 2 tickets for knight of cups in Chicago downtown please?	greeting	request_ticket	inform_numberofpeople	inform_moviename	inform_city
+any party tonight	inform_date
+Sure. please go for it	confirm_answer
+Great! thank you so much	thanks
+I'd like 2 tickets to see Zootopia tomorrow at Regal Meridian 16 theater in Seattle at 9:10 PM	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_theater	inform_city	inform_starttime
+thank you!	thanks
+"Is there any comedies playing at the Cinemark Theater in Anderson, CA tomorrow night around 5pm I will need 3 tickets."	request_moviename	inform_genre	inform_theater	inform_city	inform_state	inform_date	inform_starttime	inform_numberofpeople
+yes it iS!	confirm_answer
+he boss does a 7pm	inform_moviename	inform_starttime
+can you find times of the movie	<NULL>
+92879	inform_zip
+comedy please	inform_genre
+Good evening. I would like to get 6 movie tickets for Sunday.	greeting	request_ticket	inform_numberofpeople	inform_date
+Something Kid friendly. I'm located in Providence RI	inform_genre	inform_city	inform_state
+Yes. looking to go mid afternoon.	confirm_answer	inform_starttime
+Child tickets come out to $8.50 and Adults $9	inform_starttime
+"I have purchased 6 tickets for zootopia, 2 adults 4 children for the 225 showing on Sunday at the providence movie theater."	inform_other
+thank you	thanks
+can you find me a showing of London has fallen?	request_ticket	inform_moviename
+"Atlanta, georgia"	inform_city	inform_state
+Thursday would be good	inform_date
+any time after 2pm	inform_starttime
+yes. can I pay for two tickets with my debit card?	confirm_answer	request_ticket	inform_numberofpeople	inform_other
+thank you	thanks
+I would like to find a showing of Batman tonight in North Philly please	request_ticket	inform_date	inform_moviename	inform_city
+"9:30 would be good , can you give me the prices and the theater address?"	inform_starttime
+2 adult please	confirm_answer	inform_numberofpeople
+thank you!	thanks
+I'd like to ask for 1 ticket to Whiskey Tango Foxtrot tomorrow at 3PM in Pittsburgh.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime	inform_city
+4:30pm	inform_starttime
+I would like tickets for tonight to see Zootopia 3D at 11:30 pm at the AMC Town Square 18 in Las Vegas for two people	request_ticket	inform_moviename	inform_date	inform_video_format	inform_theater	inform_city	inform_numberofpeople
+thanks	thanks
+can i purchase 2 tickets to Kung Fu Panda 3 for tomorrow evening around 6 pm in Fredericksburg VA close to the VRE please	request_ticket	inform_moviename	inform_date	inform_starttime	inform_city	inform_state
+3D would be awesome	inform_video_format
+"Virginia Railway Express, it's address is 200 Lafayette Blvd, Fredericksburg.  I'll be taking the red eye back into DC and so need to be as close as possible to it"	<NULL>
+yes please	confirm_answer
+thanks!	thanks
+"What animated movies are playing at The Palladium in San Antonio, Texas?"	request_moviename	inform_genre	inform_theater	inform_city	inform_state
+what comedy movies will play between 6 and 7 p.m. tomorrow evening? zip code 70072 need 3 tickets\n	request_moviename	inform_genre	inform_starttime	inform_date	inform_zip	inform_numberofpeople
+I want to see Zootopia for 3 people tomorrow night in Los Angeles.	request_ticket	inform_moviename	inform_date	inform_numberofpeople	inform_city
+2d	inform_video_format
+Highland Theater at 7pm.	inform_theater	inform_starttime
+thanks.	thanks
+Hi! I would like two tickets for tonight to see Risen at 2:25 PM in the Century 16 South Point. Las Vegas.	greeting	request_ticket	inform_numberofpeople	inform_date	inform_moviename	inform_starttime	inform_theater	inform_city
+thank you so much	thanks
+"Hello, I am looking for movie theaters in the Seattle area."	greeting	inform_city
+pro_2016-03-07T22-42-28_64337707-8063-4d94-9e01-7f4f4e99da19	inform_other
+I want to see the movie Deadpool tonight with 2 friends.	request_ticket	inform_moviename	inform_date	inform_numberofpeople
+Baltimore.	inform_city
+I need 1 ticket for London has Fallen tomorrow at 8PM.	request_ticket	inform_numberofpeople	inform_moviename	inform_date	inform_starttime
+"Baltimore, Maryland."	inform_city	inform_state
+9:35pm	inform_starttime
+thanks.	thanks
+Could I reserve some movie tickets for Saturday please?	request_ticket	inform_date
+Rochester NY please	inform_city	inform_state
+Zootopia	inform_moviename
+"Standard please, 3 seats together?"	inform_video_format	inform_numberofpeople
+"2.15 is great, thanks!"	inform_starttime	thanks
+I'd like 2 tickets to see Zootopia tomorrow at Regal Meridian 16 theater in Seattle at 9:10 PM	request_ticket	inform_moviename	inform_date	inform_city	inform_starttime	inform_theater	inform_numberofpeople
+thank you!	thanks
+"Good day!  Are there any showings of Batman V Superman for tomorrow night before 10PM in the Arlington, Texas area?"	greeting	request_ticket	inform_moviename	inform_date	inform_starttime	inform_state	inform_city
+Standard please	inform_video_format
+9:30 sounds the best.	inform_starttime
+3 please.  Also how much are the tickets?	inform_numberofpeople
+Yes that sounds good.  Just wanted to be sure.	confirm_answer
+thank you so much have a blessed day!	thanks
+Is there a IMAX theater in Dallas?	inform_video_format	inform_city
+Are there any showing of 10 Cloverfield Lane tomorrow around 11?	request_ticket	inform_moviename	inform_date	inform_starttime
+10:30 a.m. for 2	inform_starttime	inform_numberofpeople
+I would like 2 tickets to see the 2D Batman v Superman at the earliest showtime available in Philadelphia on Friday.	request_ticket	inform_numberofpeople	inform_video_format	inform_moviename	inform_city	inform_date
+"Yes, please book this."	confirm_answer
+PG-13 movies tonight	request_moviename	inform_date
+"evanston, il"	inform_city	inform_state
+can I get tickets to the 7:30	<NULL>
+"hi, I'm looking for tickets to a Sunday matinee of The Witch in Saint Louis, can you tell me what's available?"	greeting
+2	inform_numberofpeople
+yes please	confirm_answer
+i want to watch a funny movie in seattle at 5pm	request_ticket	inform_genre	inform_starttime	inform_city
+yes please!	confirm_answer
+omorrow please	Grea - how many tickets will you need?	inform_date
+What theater should I buy tickets from? At least give me your zipcode.	inform_numberofpeople
+Zootopia is showing at 5:00 pm at AMC Elmwood Palace 20. Would you like to book tickets for that showing?	inform_zip
+"I would like to watch a feel good movie tonight, Can you provide a list of options?"	request_moviename	inform_date
+92111 area	inform_zip
+Miracles from Heaven is good	inform_moviename
+yes it will	confirm_answer
+3	inform_numberofpeople
+thank you	thanks
